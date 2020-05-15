@@ -1,0 +1,905 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70206" creator="ipetoipe 7.2.7">
+<info created="D:20100118121208" modified="D:20101028144930" title="CS101 Lecture 8" author="Otfried Cheong"/>
+<bitmap id="1" width="180" height="220" length="11326" ColorSpace="DeviceRGB" Filter="DCTDecode" BitsPerComponent="8" encoding="base64">
+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
+</bitmap>
+<bitmap id="2" width="1002" height="302" length="3351" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+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
+7sSI
+</bitmap>
+<bitmap id="3" width="58" height="50" length="865" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" ColorKey="fbfbfd" encoding="base64">
+eNrtmE1LG0EYx+NrXBQtoXhQFJEYYnxpXEMrEQIJsgkSSihFog095OBFwZ5VqEe9ikggNyOi
+HqyoiO03CEHEg4iICC099DNIa//JtNNhNptskgkmdB/+hNnMDPnx5HmZ2YeHnw+GqlzfTB8g
+dlD5tFTV4t6qcCw3qHzUqvj3DdT/GfWpZCrQFuQFsrHvrw0PvxocdPfps9JRlecKGKD1qXUt
+HX88TiVSEJZFX7z1+/0NGWtsbGxqapIkCZ9msxmPDdrmdDpLAdaJygGD7Wt9/XezGcxzc3Mr
++WxtbW0/Y263e2hoqGhgSpsXlQXGrl8Zzc/PnwUCjyZTyuVSQ+7MzGDqrrcX49XV1b29vVgs
+JpwWj/geYFq0ad/W1f1obv6sKOAhOpdlFnU3HKZT9z095aPVQqW0NTU1nZ2d09PTRdC2trZ6
+vd7igIujxQJCC6pCIwF7BwYGxNLmjgTiW3riyptldCVoURnE0ubNMsQtaAOBALJsRZ+VL251
+0pJIqAraT5Lk8USJb08nJ2lCcbq1WiuB9osk6Y8E4d2hoF5WW1tLOm9/f3/eXgbURCKxvLws
+pPMWcU4ALX4UwAUdh0ZGRkQdbPQbdaxO3xL3Et+2tbX5fL4SgbkAxph+Eq9CeCQrfV4fDloI
+v8i7SPqccBZIJl/mQN3aen9/n+5liIeNjY3x8XGHw1G6h2kkcLQEmNLKsswV29PTyVTKlRV1
+eztyd9fLloV4PA5Um80mnJYYR6soCp1CjhOSk5Pg+bnMd96dmdvbPxUsGo3SXeXwLTtmaUly
+LS0twVeUFnZ09PriwvnvVLMbvrmx0UfQjo2NJZNJhD2iXSwta2pa5Is/Yywt7PAwdHk5jMH+
+/tT1tZ2dAi1qwujoqMViKTEMcrcJLsvIjYxgq2vCwcGbx0fT1ZVDXROEVDD9dYzbQpxst9sB
+HAwGs17ErFYrUBcXFzFuaZG7u0PIMLFXYLaU5V4MYEo7MTHBXW89Hg+ldblcQrwqkJabNWgN
+2iehhXKsJMcwdZbRWTWtcGCW1tJsyVq7aPlSVzBy+6azbAUr/XyrVXjZ7tD+rD0rbUdHB/dm
+KRQKUdqurq7Z2Vn27rC5uSmcVg2sRZu1HXC+FfvWTmd304rbHO88y/FG1JAhQ4YqWb8B0wZT
+mQ==
+</bitmap>
+<ipestyle name="presentation">
+<symbol name="arrow/arc(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/farc(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="mark/circle(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+0.4 0 0 0.4 0 0 e
+</path>
+</symbol>
+<symbol name="mark/disk(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+</path>
+</symbol>
+<symbol name="mark/fdisk(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke" fillrule="eofill">
+0.6 0 0 0.6 0 0 e
+0.4 0 0 0.4 0 0 e
+</path>
+<path fill="sym-fill">
+0.4 0 0 0.4 0 0 e
+</path>
+</group>
+</symbol>
+<symbol name="mark/box(sx)" transformations="translations">
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+</symbol>
+<symbol name="mark/square(sx)" transformations="translations">
+<path fill="sym-stroke">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+</path>
+</symbol>
+<symbol name="mark/fsquare(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+<path fill="sym-fill">
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/cross(sx)" transformations="translations">
+<group>
+<path fill="sym-stroke">
+-0.43 -0.57 m
+0.57 0.43 l
+0.43 0.57 l
+-0.57 -0.43 l
+h
+</path>
+<path fill="sym-stroke">
+-0.43 0.57 m
+0.57 -0.43 l
+0.43 -0.57 l
+-0.57 0.43 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="arrow/fnormal(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/pointed(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-0.8 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/fpointed(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-0.8 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/linear(spx)">
+<path stroke="sym-stroke" pen="sym-pen">
+-1 0.333 m
+0 0 l
+-1 -0.333 l
+</path>
+</symbol>
+<symbol name="arrow/fdouble(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+-1 0 m
+-2 0.333 l
+-2 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/double(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+-1 0 m
+-2 0.333 l
+-2 -0.333 l
+h
+</path>
+</symbol>
+<pen name="normal" value="1.2"/>
+<pen name="heavier" value="2.4"/>
+<pen name="fat" value="3.6"/>
+<pen name="ultrafat" value="6"/>
+<symbolsize name="normal" value="9"/>
+<symbolsize name="large" value="15"/>
+<symbolsize name="small" value="6"/>
+<symbolsize name="tiny" value="3.3"/>
+<arrowsize name="normal" value="15"/>
+<arrowsize name="large" value="20"/>
+<arrowsize name="small" value="10"/>
+<arrowsize name="tiny" value="6"/>
+<color name="red" value="1 0 0"/>
+<color name="green" value="0 1 0"/>
+<color name="blue" value="0 0 1"/>
+<color name="yellow" value="1 1 0"/>
+<color name="orange" value="1 0.647 0"/>
+<color name="gold" value="1 0.843 0"/>
+<color name="purple" value="0.627 0.125 0.941"/>
+<color name="gray" value="0.745"/>
+<color name="brown" value="0.647 0.165 0.165"/>
+<color name="navy" value="0 0 0.502"/>
+<color name="pink" value="1 0.753 0.796"/>
+<color name="seagreen" value="0.18 0.545 0.341"/>
+<color name="turquoise" value="0.251 0.878 0.816"/>
+<color name="violet" value="0.933 0.51 0.933"/>
+<color name="darkblue" value="0 0 0.545"/>
+<color name="darkcyan" value="0 0.545 0.545"/>
+<color name="darkgray" value="0.663"/>
+<color name="darkgreen" value="0 0.392 0"/>
+<color name="darkmagenta" value="0.545 0 0.545"/>
+<color name="darkorange" value="1 0.549 0"/>
+<color name="darkred" value="0.545 0 0"/>
+<color name="lightblue" value="0.678 0.847 0.902"/>
+<color name="lightcyan" value="0.878 1 1"/>
+<color name="lightgray" value="0.827"/>
+<color name="lightgreen" value="0.565 0.933 0.565"/>
+<color name="lightyellow" value="1 1 0.878"/>
+<color name="title" value="0.4 0 0.4"/>
+<dashstyle name="dashed" value="[4] 0"/>
+<dashstyle name="dotted" value="[1 3] 0"/>
+<dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
+<dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
+<textsize name="normal" value="\normalsize"/>
+<textsize name="large" value="\large"/>
+<textsize name="small" value="\normalsize"/>
+<textsize name="huge" value="\LARGE"/>
+<textstretch name="normal" value="2.8"/>
+<textstretch name="large" value="2.8"/>
+<textstretch name="small" value="2.4"/>
+<textstretch name="huge" value="2.8"/>
+<textstyle name="normal" begin="\begin{flushleft}" end="\end{flushleft}"/>
+<textstyle name="center" begin="\begin{center}" end="\end{center}"/>
+<textstyle name="itemize" begin="\begin{flushleft}\begin{itemize}" end="\end{itemize}\end{flushleft}"/>
+<textstyle name="item" begin="\begin{flushleft}\begin{itemize}\item{}" end="\end{itemize}\end{flushleft}"/>
+<gridsize name="16 pts (~6 mm)" value="16"/>
+<gridsize name="32 pts (~12 mm)" value="32"/>
+<gridsize name="10 pts (~3.5 mm)" value="10"/>
+<gridsize name="20 pts (~7 mm)" value="20"/>
+<gridsize name="14 pts (~5 mm)" value="14"/>
+<gridsize name="28 pts (~10 mm)" value="28"/>
+<gridsize name="56 pts (~20 mm)" value="56"/>
+<anglesize name="90 deg" value="90"/>
+<anglesize name="60 deg" value="60"/>
+<anglesize name="45 deg" value="45"/>
+<anglesize name="30 deg" value="30"/>
+<anglesize name="22.5 deg" value="22.5"/>
+<preamble>
+\renewcommand\rmdefault{cmss}
+\makeatletter
+\leftmargini 1.5em
+\leftmargin \leftmargini
+\leftmarginii  1.2em
+\leftmarginiii 1em
+\def\@listI{\leftmargin\leftmargini
+            \parsep \z@
+	    \partopsep 3pt
+	    \topsep \z@
+            \itemsep \z@}
+\@listI
+\def\@listii {\leftmargin\leftmarginii
+              \labelwidth\leftmarginii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \itemsep   \parsep}
+\def\@listiii{\leftmargin\leftmarginiii
+              \labelwidth\leftmarginiii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \partopsep \z@
+              \itemsep   \topsep}
+\makeatother
+</preamble>
+<layout paper="800 600" origin="32 0" frame="736 528" skip="32" crop="no"/>
+<titlestyle pos="368 554" size="large" color="title"  halign="center" valign="baseline"/>
+<tiling name="falling" angle="-60" step="12" width="3"/>
+<tiling name="rising" angle="30" step="12" width="3"/>
+</ipestyle>
+<ipestyle name="kaisttheme">
+<symbol name="Background">
+<group>
+<image matrix="1 0 0 1 -162.234 308.933" rect="339.004 239.003 396.996 288.997" bitmap="3"/>
+<group matrix="0.343668 0 0 0.343668 -51.9093 459.634">
+<path fill="0.563 0.727 0.855" fillrule="wind">
+76.697 277.771 m
+120.493 269.94
+192.854 264.827
+274.709 264.827 c
+356.564 264.827
+428.927 269.94
+472.718 277.771 c
+428.927 285.601
+356.564 290.72
+274.709 290.72 c
+192.854 290.72
+120.493 285.601
+76.697 277.771 c
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+275.279 299.355 m
+294.577 299.355 l
+294.577 373.497 l
+275.279 373.497 l
+275.279 299.355 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+418.065 373.465 m
+361.604 373.465 l
+361.669 357.398 l
+380.069 357.398 l
+380.069 299.214 l
+399.603 299.279 l
+399.603 357.398 l
+418.065 357.398 l
+418.065 373.465 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+249.098 374.512 m
+241.957 374.512 l
+229.799 374.512 l
+222.663 374.512 l
+200.923 313.64 l
+182.964 337.545 l
+209.964 373.497 l
+190.668 373.497 l
+169.085 344.764 l
+169.085 373.497 l
+149.792 373.497 l
+149.792 299.355 l
+169.085 299.355 l
+169.085 330.332 l
+192.384 299.326 l
+195.813 299.326 l
+211.677 299.326 l
+215.107 299.326 l
+235.337 355.983 l
+247.498 315.289 l
+229.329 315.289 l
+229.329 299.226 l
+259.475 299.226 l
+259.475 299.326 l
+271.567 299.326 l
+249.098 374.512 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+341.955 345.908 m
+341.927 345.95 l
+319.143 345.95 l
+319.143 357.493 l
+357.066 357.493 l
+357.066 373.56 l
+323.335 373.56 l
+323.318 373.532 l
+311.282 373.532
+301.522 363.769
+301.522 351.728 c
+301.522 339.879
+310.971 330.261
+322.742 329.946 c
+322.76 329.887 l
+347.43 329.887 l
+347.43 315.289 l
+303.776 315.289 l
+303.776 299.226 l
+342.373 299.226 l
+342.399 299.261 l
+354.979 299.635
+365.065 309.921
+365.065 322.573 c
+365.065 335.392
+354.739 345.781
+341.955 345.908 c
+</path>
+</group>
+<text transformations="translations" pos="100 588" stroke="kaist-dark-blue" type="label" valign="top">
+CS101</text>
+<path stroke="kaist-dark-blue" pen="fat">
+0 536 m
+736 536 l
+</path>
+</group>
+</symbol>
+<color name="kaist-dark-blue" value="0.065 0.155 0.563"/>
+<color name="dred" value="0.7 0 0"/>
+<layout paper="800 600" origin="32 0" frame="736 528" skip="32" crop="no"/>
+<titlestyle pos="736 554" size="large" color="title"  halign="right" valign="baseline"/>
+</ipestyle>
+<ipestyle name="cs101style">
+<preamble>
+\newcommand{\dred}[1]{\textcolor{dred}{#1}}
+\usepackage{fancyvrb}
+\DefineShortVerb[formatcom=\color{darkred}]{\|}
+\CustomVerbatimEnvironment{V}{Verbatim}{formatcom=\color{black},commandchars=\\\@\$}
+\def\r{$\rightarrow$}
+</preamble>
+</ipestyle>
+<page title="Blackjack" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="epsilon"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma epsilon" active="epsilon"/>
+<image layer="alpha" matrix="0.705293 0 0 0.705293 -195.265 264.332" rect="278 154 458 374" bitmap="1"/>
+<text transformations="translations" pos="160 528" stroke="darkblue" type="minipage" width="576" valign="top">There are 52 cards.  Each card has a \dred{face} and a \dred{suit}.
+The suits \dred{clubs}, \dred{spades}, \dred{hearts}, and \dred{diamonds}.
+The faces are \dred{2, 3, \ldots, 10, Jack, Queen, King, Ace}.
+</text>
+<text layer="beta" matrix="1 0 0 1 0 -16" pin="h" transformations="translations" pos="0 370.781" stroke="darkblue" type="minipage" width="736" valign="top">The \dred{value} of a card is the number for a number card, 11 for an Ace, and 10 for Jack, Queen, and King.</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 264.51" stroke="darkblue" type="minipage" width="736" valign="top">We can represent cards as a triple |(face, suit, value)|.</text>
+<text layer="epsilon" pin="h" transformations="translations" pos="0 207.714" stroke="darkblue" type="minipage" width="736" valign="top">If |card| is a card, then |card[0]| is the face, |card[1]| is the suit, and |card[2]| is the value.</text>
+</page>
+<page title="Cards as triples" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" matrix="1 0 0 1 0 320" pin="h" transformations="translations" pos="0 207.714" stroke="darkblue" type="minipage" width="736" valign="top">Computing the value of a hand:
+
+\begin{V}
+def hand_value(hand):
+  total = 0
+  for card in hand:
+    total += \dred@card[2]$
+  return total
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 292.232" stroke="darkblue" type="minipage" width="736" valign="top">Printing a card nicely:
+
+\begin{V}
+def card_string(card):
+  article = &quot;a &quot;
+  if \dred@card[0]$ in [8, &quot;Ace&quot;]: article = &quot;an &quot;
+  return article + str(\dred@card[0]$) + &quot; of  &quot; + \dred@card[1]$
+\end{V}
+</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 87.9008" stroke="darkblue" type="minipage" width="736" valign="top">Easy to make mistakes:  What does |card[2]| mean?  What if somebody creates a card 
+|(&quot;Ace&quot;, &quot;Spades&quot;, 5)|?</text>
+</page>
+<page title="Cards as objects" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha gamma" active="gamma"/>
+<view layers="alpha gamma delta" active="delta"/>
+<view layers="alpha beta gamma delta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Let us define a new object type with \dred{attributes} for face, suit, and value:
+
+\begin{V}
+\dred@class$ Card(object):
+  &quot;&quot;&quot;A Blackjack card.&quot;&quot;&quot;
+  pass
+
+card = \dred@Card()$
+card.face = &quot;Ace&quot;
+card.suit = &quot;Spades&quot;
+card.value = 11
+\end{V}</text>
+<text layer="beta" matrix="1 0 0 1 0 -32.9825" pin="h" transformations="translations" pos="0 158.62" stroke="darkblue" type="minipage" width="736" valign="top">|card| has a user-defined type:
+
+\begin{V}
+&gt;&gt;&gt; type(card)
+&lt;class &apos;__main__.Card&apos;&gt;
+\end{V}</text>
+<text layer="gamma" matrix="1 0 0 1 32 -3.50877" transformations="translations" pos="384 304" stroke="darkblue" type="label" valign="baseline">create |Card| object</text>
+<path matrix="1 0 0 1 0.701754 4.91228" stroke="darkorange" arrow="normal/normal">
+400 304 m
+208 304 l
+</path>
+<text layer="delta" matrix="1 0 0 1 -2.52632 -17.5439" transformations="translations" pos="418.526 255.439" stroke="darkblue" type="label" valign="baseline">set \dred{attributes} of |card|</text>
+<path stroke="darkorange" arrow="normal/normal">
+400.281 248.421 m
+308.351 248.421 l
+</path>
+</page>
+<page title="Cards as objects" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" matrix="1 0 0 1 0 320" pin="h" transformations="translations" pos="0 207.714" stroke="darkblue" type="minipage" width="736" valign="top">Computing the value of a hand:
+
+\begin{V}
+def hand_value(hand):
+  total = 0
+  for card in hand:
+    total += \dred@card.value$
+  return total
+\end{V}
+</text>
+<text pin="h" transformations="translations" pos="0 292.232" stroke="darkblue" type="minipage" width="736" valign="top">Printing a card nicely:
+
+\begin{V}
+def card_string(card):
+  article = &quot;a &quot;
+  if \dred@card.face$ in [8, &quot;Ace&quot;]: article = &quot;an &quot;
+  return (article + str(\dred@card.face$) + 
+          &quot; of &quot; + \dred@card.suit$)
+\end{V}
+</text>
+</page>
+<page title="Objects are mutable" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">There is one big difference between tuples and |Card| objects:  Objects are mutable:
+
+\begin{V}
+&gt;&gt;&gt; card = Card()
+&gt;&gt;&gt; card.face = &quot;Ace&quot;
+&gt;&gt;&gt; card.suit = &quot;Spades&quot;
+&gt;&gt;&gt; card.value = 11
+... and later ...
+&gt;&gt;&gt; card.suit = &quot;Hearts&quot;
+\end{V}
+</text>
+</page>
+<page title="Journey of Chicken" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">An animation by Jeong-eun Yu and Geum-hyeon Song (2010 Freshmen).</text>
+<image matrix="1 0 0 1 0 63.0887" rect="0 153.086 736 374.914" bitmap="2"/>
+<text layer="beta" matrix="1 0 0 1 0 -240.088" pin="h" transformations="translations" pos="0 434.63" stroke="darkblue" type="minipage" width="736" valign="top">Three |Layer| objects: mother hen, chick1, chick2.</text>
+<text layer="gamma" matrix="1 0 0 1 0 28.0394" pin="h" transformations="translations" pos="0 118.572" stroke="darkblue" type="minipage" width="736" valign="top">Each chicken has |body|, |wing|, |eye|, and |beak|.  Mother hen also has two red dots on the head.</text>
+<text layer="delta" matrix="1 0 0 1 0 7.00986" pin="h" transformations="translations" pos="0 61.7637" stroke="darkblue" type="minipage" width="736" valign="top">The two chicken are exactly the same.  Mother hen is larger and white.</text>
+</page>
+<page title="Copy \&amp; Paste" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">The simplest method to make similar objects is to write the code once, and the copy \&amp; paste it (with the necessary modifications).
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 402.707" stroke="darkblue" type="minipage" width="736" valign="top">\dred{Disadvantage:}  When you find a bug, you have to debug \dred{all} copies of the code.  It is not easy to change the appearance of all the chicken at once.</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 284.386" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s try to implement the chicken as an object:
+
+\begin{V}
+class Chicken(object):
+  &quot;&quot;&quot;Graphic representation of a chicken.&quot;&quot;&quot;
+  pass
+\end{V}</text>
+<text layer="delta" pin="h" transformations="translations" pos="0 109.653" stroke="darkblue" type="minipage" width="736" valign="top">Our chicken will have attributes |layer|, |body|, |wing|, |eye|, and |beak|.</text>
+</page>
+<page title="Chicken objects" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">The function |make_chicken| creates a chicken object, with positioned at $(0,0)$.</text>
+<text layer="beta" matrix="1 0 0 1 0 5.25739" pin="h" transformations="translations" pos="0 436.181" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+def make_chicken(hen = False):
+  layer = Layer()
+  if hen:
+    body = Ellipse(70,80)
+    body.setFillColor(&quot;white&quot;)
+  else:
+    body = Ellipse(40,50)
+    body.setFillColor(&quot;yellow&quot;)
+    body.move(0, 10)
+  body.setBorderColor(&quot;yellow&quot;)
+  body.setDepth(20)
+  layer.add(body)
+  # similar for wing, eye, beak, dots
+\end{V}
+</text>
+</page>
+<page title="Chicken objects">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Finally we create and return the |Chicken| object:
+
+\begin{V}
+def make_chicken(hen = False):
+  # ... see previous page
+
+  \dred@ch = Chicken()$
+  ch.layer = layer
+  ch.body = body
+  ch.wing = wing
+  ch.eye = eye
+
+  # return the Chicken object
+  \dred@return ch$
+\end{V}
+
+</text>
+</page>
+<page title="Using chickens" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We use |Chicken| objects by accessing their attributes:
+
+\begin{V}
+hen = make_chicken(True)
+chick1 = make_chicken()
+chick1.layer.move(120,0)
+
+herd = Layer()
+herd.add(hen.layer)
+herd.add(chick1.layer)
+herd.move(600, 200)
+
+chick2 = make_chicken()
+chick2.layer.move(800,200)
+\end{V}</text>
+</page>
+</ipe>

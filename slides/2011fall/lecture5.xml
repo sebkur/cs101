@@ -1,0 +1,1416 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70206" creator="ipetoipe 7.2.7">
+<info created="D:20100118121208" modified="D:20111010221424" title="CS101 Lecture 5" author="Otfried Cheong"/>
+<preamble>\usepackage{url}</preamble>
+<bitmap id="1" width="402" height="302" length="1171" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+eNrt1AENgCAURVH6d6GPCayBJmDI2PTJeTsJ2OeWYmYWtnqcABFUC1AtANUCUC1AtQBUC0C1
+ANUCUC0A1QJUC0C1AFQLUC0A1QJQLUC1AFQLQLUA1QJQLQDVAlQLQLUAVAtQLQDVAlAtQLUA
+VAtAtQDVAlAtANUCVAtAtQBUC1AtANUCUC1AtbwDoFoAqgWgWoBqAagWgGoBqgWgWgCqBagW
+gGoBqBagWgCqBaBagGoBqBaAagGqBaBaAKoFqBaAagGoFqBaAKoFoFqAagGoFoBqAaoFoFoA
+qgWoFoBqAagWoFoAqgWgWoBqAagWgGoBquUdANUCUC0A1QJUC0C1AFQLUC0A1QJQLUC1AFQL
+QLUA1QJQLQDVAlQLQLUAVAtQLQDVAlAtQLUAVAtAtQDVAlAtANUCVAtWXZpFT7XYrVqtEUy1
+UC1US7VQLVQLVAvVQrVQLdVCtVAtUC1UC9VCtVQL1UK1QLVQLVAt1VItVAvVAtVCtUC1VEu1
+UC1Uy59CtVAtUC3VUi1UC9VSLVQL1QLVUi3VQrVQLdVCtVAtUC3VUi1UC9VSLVQL1QLVUi3V
+QrVQLdVCtVAtUC3VUi1UC9VSLVQL1QLVUi3VQrVQLdVCtVAtvuO+Jh5TIdVCsoRLtVQL1VIt
+1VIt1UK1VAvVUi3VUi1mqyVF3UqplmqhWqqlWqqFaqmWaqmWaqFaqoVqqZZqqRaqpVqqpVqq
+hWqpFqqlWqqlWqiWaqmWaqkWqqVaqJZqqZZqoVqqpVqqpVqolmqhWqqFaqFaqqVaqqVaqqVa
+qoVqqRaqhWqplmqplmqplmqpFqqlWqgWqqVaqqVaqqVaqqVaqJZqoVqolmqplmqhWqqlWqiW
+aqFaqJZqqZZqoVqqpVqqpVqqhWqhWqqlWqqFaqmWaqmWaqkWqoVqqZZqqRaqpVqqpVqqpVqo
+FqoVUy2bmGqhWi9Wy/HkUi3VUi1UC9VSLVQL1VItVEu1VAvVQrVUC9VCtVQL1VIt1XI8qoVq
+qRaqhWqpFqqlWqqlWqqFaqkWqoVqqRaqpVqqpVqqhWqpFqqFaqkWqqVaqJZqoVqqhWqhWqqF
+aqkWqqVaqJZqoVqolmqhWqqFaqkWqqVaqBaqpVqolmqhWqqFaqkWqoVqqRaqpVrSpFqqhWqp
+FqqFaqkWqqVaqqVaqoVqqRaqhWqpFqqlWqqlWqqFaqkWqoVqqRaqhWqplmqhWqqFaqFaqoVq
+oVqqpVreQbVUC9VCtVQL1UK1VAvVUi3VQrVQLdVCtVAt1UK1VEu1UC1US7VQLVRLtVAt1VIt
+x6NaqJZqoVqolmqhWqqlWqqlWqiWaqFaqJZqoVqqpVqqpVqolmqhWqiWaqFa+1SLcY5HtVAt
+1UK1UC3VQrVUC9VSLYRLslAtANUCVAtAtQBUC1AtANUCUC1AtQBUC0C1ANUCUC0A1QJUC0C1
+AFQLUC0A1QJQLUC1AFQLQLUA1QJQLQDVAlQLQLUAVAtQLe8AqBaAagGoFqBaAKoFoFqAagGo
+FoBqAaoFoFoAqgWoFoBqAagWoFoAqgWgWsD/qmVmFrQLuJDRiw==
+</bitmap>
+<bitmap id="2" width="402" height="302" length="1160" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+eNrt1LENgDAQBEH33wv9UAFtGGIHiACJP35Ok5Baz45hZha2bT8AIqgWoFoAqgWgWoBqAagW
+gGoBqgWgWgCqBagWgGoBqBagWgCqBaBagGoBqBaAagGqBaBaAKoFqBaAagGoFqBaAKoFoFqA
+agGoFoBqAaoFoFoAqgWoFoBqAagWoFoAqgWgWoBqeQdAtQBUC0C1ANUCUC0A1QJUC0C1AFQL
+UC0A1QJQLUC1AFQLQLUA1QJQLQDVAlQLQLUAVAtQLQDVAlAtQLUAVAtAtQDVAlAtANUCVAtA
+tQBUC1AtANUCUC1AtQBUC0C1ANUCUC0A1QJUyzsAqgWgWgCqBagWgGoBqBagWgCqBaBagGoB
+qBaAagGqBaBaAKoFqBaAagGoFqBaAKoFoFqAagGoFoBqAaoFoFoAqgWoFrx1aRY91aJbteYk
+mGqhWqiWaqFaqBaoFqqFaqFaqoVqoVqgWqgWqoVqqRaqhWqBaqFaoFqqpVqoFqoFqoVqgWqp
+lmqhWqiWfwrVQrVAtVRLtVAtVEu1UC1UC1RLtVQL1UK1VAvVQrVAtVRLtVAtVEu1UC1UC1RL
+tVQL1UK1VAvVQrVAtVRLtVAtVEu1UC1UC1RLtVQL1UK1VAvVQrWo47qmCKqlWqpFULJUS7VU
+C9VCtVAt1UK1UC3VUi3V4qZaxbvlx1ct1UK1UC1US7VQLVRLtVRLtVAtVAvVUi1UC9VSLdVS
+LVQL1VIt1VItVAvVUi3VUi1UC9VSLdVSLVQL1VIt1VItVAvVUi3VUi1UC9VSLdVSLVQL1VIt
+1VItVAvVUi3VUi1UC9VSLdVSLVQL1VIt1VItVAvVUi3VUi1UC9VSLdVSLVQL1VIt1VItVAvV
+Ui3VUi1UC9VSLdVSLVQL1VIt1VItVAvVUi3VUi1UC9VSLdVSLVQL1VIt1apcLUufatGsWh9b
+vh1PLtVSLdVCtVAt1UK1UC3VQrVUS7VQLVRLtVAtVEu1UC3VUi3Ho1qolmqhWqiWaqFaqqVa
+qqVaqJZqoVqolmqhWqqlWqqlWqiWaqFaqJZqoVqqhWqpFqqlWqgWqqVaqJZqoVqqhWqpFqqF
+aqkWqqVaqJZqoVqqhWqhWqqFaqkWqqVaqJZqoVqolmqhWqolTaqlWqiWaqFaqJZqoVqqpVqq
+pVqolmqhWqiWaqFaqqVaqqVaqJZqoVqolmqhWqiWaqkWqqVaqBaqpVqoFqqlWqrlHVRLtVAt
+VEu1UC1US7VQLdVSLVQL1VItVAvVUi1US7VUC9VCtVQL1UK1VAvVUi3VcjyqhWqpFqqFaqkW
+qqVaqqVaqoVqqRaqhWqpFqqlWqqlWqqFaqkWqoVqqRaq1adaPOd4VAvVUi1UC9VSLVRLtVAt
+1UK4JAvVAlAtQLUAVAtAtQDVAlAtANUCVAtAtQBUC1AtANUCUC1AtQBUC0C1ANUCUC0A1QJU
+C0C1AFQLUC0A1QJQLUC1AFQLQLUA1fIOgGoBqBaAagGqBaBaAKoFqBaAagGoFqBaAKoFoFqA
+agGoFoBqAaoFoFoAqgX8r1pmZkE7AeAayfU=
+</bitmap>
+<bitmap id="3" width="402" height="302" length="1466" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+eNrt2MENgkAURVH674V+rMA2kMSNeyJ655+XG1euJswJYdvMzGLbH09JSkQtSdSSJGpJErUk
+UUuSqCVJ1JJELUmiliRRSxK1JIlakkQtSdSSJGpJErUkUUuSqCVJ1JJELUmiliRRSxK1JIla
+kkQtSdSSJGpJErUkUUuSqCVJ1JJELUmiliRRSxK1JIlakkQtSdSSJGpJErUkUcs5SKKWJFFL
+kqgliVqSRC1JopYkakkStSSJWpKoJUnUkiRqSaKWJFFLkqgliVqSRC1JopYkakkStSSJWpKo
+JUnUkiRqSaKWJFFLkqgliVqSRC1JopYkakkStSSJWpKoJUnUkiRqSaKWJFFLkqgliVqSRC1J
+opYkajkHSdSSJGpJErUkUUuSqKVch+dK1FLHq88ciKilEFngErWUIwtcopZyZIFL1FKOLHCJ
+WsqRBS5RSzmywCVqKUcWuEQt5cgCl6ilPyTr/AGXqKUQWe/AJWopRBa4RC3lyAKXqKUcWeAS
+tZQjC1yilnJkgUvUUo4scIlaypEFLlFLObLAJWopRxa4RC3lyAKXqKUcWeAStZQjC1yilnJk
+gUvUUo4scIlaypEFLlFLObLAJWopRxa4RC3lyAKXqKUcWeAStZQjC1yilnJkgUvUUo4scIla
+ypEFLlELWTmywCVqIStHFrhELWTlyAKXqIWsHFngErWQlSMLXKIWsnJkgUvUQtaqcE0YtYSs
+xeA6/7Fw1BKywEUtaglZ4KIWtYQscFGLWsgCF7WoJWSBi1rUErLARS1qIQtc1KKWkAUualFL
+yAIXtaiFLHBRi1pCFrioRS0hC1zUohaywLUGXNQSssBFLWoJWeCiFrWQhSxwUYtayAJXES5q
+CVngasFFLSELXC24qCVkgasFF7WELHC14KKWkAWuFlzUErLA1YKLWkIWuFpwUUvIAlcLLmoJ
+WeBqwUUtIUstuKglZKkFF7WELLXgopaQpRZc1BKy1IKLWkKWWnBRS8hSCy5qCVlqwUUtIUst
+uKglZKkFF7WELF2E6/5RS8jSRbg86tRClsAlaiFL4KKWkAUucFELWQKXqIUsgYtaQha4wEUt
+ZAlcohayBC5qCVkCF7WQJXCJWsgSuKglZAlc1EKWwCVqIUvgopaQJXBRC1kCl6iFLIGLWkKW
+wEUtZAlc4KIWsgQuaglZAhe1kCVwgYtayBK4qCVkCVzUQpYELmohS+CilpAlcFELWRK4qPUT
+tdwy3QyXK0ktZKkFl1tJLXDJuxa1fNeSfNeiFriELGRRC1xCFrXAJSGLWuASslw9aoFLyKIW
+uMAlZFELXEKWqAUuIYta4AKXkEUtcAlZoha4hCxqCVxCFrXAJWSJWuASsqglcAlZ1AKXkCVq
+gUvIopbAJWRRC1xClqgFLiGLWgKXkEUtcIELWaIWuIQsaglcQha1wAUuZIla4BKyqCVwCVnU
+EriQJWqBS8iilsAlZFFL4EKWqAUuIYta1AKXkEUtgQtZoha4hCxRC1xCFrUELmSJWuAiCbJE
+LXAJWdQSuJAlaoELXMgStcAlZFFL4EKWqAUucCFL1AKXkEUtgQtZopbAhSxRC1xCFrUELmSJ
+WgIXskQtcAlZ1BK4kCVqCVzIErXAJWRRS+BClqglcCFL1AIXuJBFLYELWaKWwIUsUQtcw+FC
+FrUELmSJWgIXskQtDYcLWdQSuJAlaglcyBK1NBwuZFFL4EKWqCVwIUvU0nC4kEUtaoELWaKW
+wIUsUUvD4UKWqAWuEFzIErXAFYILWaIWuEJwIUvUUgguZIlaCsGFLFFLIbiQJWopBBeyRC2F
+4EKWqKUQXMgStRSCC1milkJwIUvUUgguZIlaCsGFLFFLIbiQJWopBBeyRC2F4EKWqKUQXMgS
+tRSCC1milkJwIUvUUgguZIlaCsGFLFFLIbiQJWopBBeyRC2F4EKWqKUQXMgStRSCC1n6nlpm
+ZqG9AKkqZlU=
+</bitmap>
+<bitmap id="4" width="402" height="302" length="1686" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+eNrt3W9I3HUcwHF92NjdebKY9oeeRD2RgmCwYGNsUBF7sIKiKIpqrWIrGqPFJjh10AgbZA1j
+0FHuZk5uKwgkCp+4fFDn3HaT7XRTZ1gJooeCiuC/6wvSCB+M2qOf8frwenL47MuXNx+Pu9+V
+lBhjzBqbb/tHAdYE1QJUC0C1AFQLUC0A1QJQLUC1AFQLQLUA1QJQLQDVAlQLQLUAVAtQLQDV
+AlAtQLUAVAtAtQDVAlAtANUCVAtAtQBUC1AtANUCUC1AtQBUC0C1ANUCUC0A1QJUC0C1AFQL
+UC3nAKgWgGoBqBagWgCqBaBagGoBqBaAagGqBaBaAKoFqBaAagGoFqBaAKoFoFqAagGoFoBq
+AaoFoFoAqgWoFoBqAagWoFoAqgWgWoBqAagWgGoBqgWgWgCqBagWgGoBqBagWgCqBaBagGo5
+B0C1AFQLQLUA1QJQLQDVAlQLQLUAVAtQLQDVAlAtQLUAVAtAtQDVAlAtANUCVAtAtQBUC1At
+ANUCUC1AtQBUC0C1ANUCUC0A1QJUC0C1AFQLUC0A1QJQLUC1AFQLQLUA1QJQLQDVAlTLOQCq
+BaBaAKoFqBaAagGoFqBaAKoFoFqAagGoFoBqAaoFoFoAqgWoFoBqAagWoFoAqsWdKZaU8F+5
+NqqFZAkXqoVqqRaqpVqolmqhWqqFanHH1VKj21At1UK1VAvVQrVUC9VSLVRLtVAt1UK1UC3V
+QrVUC9VSLVRLtVAtVEu1UC3VQrVUC9VSLVQL1VItVEu1UC3VQrVUC9VCtaJZrbP5P871/ele
+qRaqtSaqlbn2+7N73v3m0mBol6ulWqhW9KvVmhsKJ/jUi680/3pNuFQL1Yp+tcKWFU6worLy
+6ZdeO5XNC5dqoVprolqDg4MbNty9a/fedHefcKkWqhX9ai0vL+fz+WSy/Pl9B9IX+r05r1qo
+VsSrNT8/XywWc7lcoqzs5QOHT/dcFy7VQrWiXK25ubmwboVwZbPZWDz++uG6lp4bwqVaqFZk
+qzU9Pb2yboXp6uqKxRNv1X7ccnFAuFQL1Ypmtaampm6tW2E6OjrWx+L7jn0a/ipcqoVqRbBa
+ExMTMzMzCwsLxb+nvb09bFz7jze1XhYu1UK1IletsbGxVetWmEwmE08kPjyRas0NCZdqoVqR
+qtbo6GihUFi1boVJp9OJZLL6ZPrMlZvCpVqoVnSqNTIycmvdWlpaqqqqumvduhWlpaWxsuRH
+rd9nro64e6qFakWkWsPDw2Hd6uvrS6VSYd1qbGx84MGH9hw59n7Dif3Hmw5+nvrku5/aeofd
+PdVCtSJSrYGBge7u7nvvuz8Wj4+Pj8/OziaT5W/XN6R+vpy+0H+653prbsg3fVQL1YpOtTo7
+Oysq79m0/YmHH32spqYmrFu1tbVVmzZ/ef6SWKkWqhXBam3cWPH4kzuPfNV2qOnrRFmyUChM
+Tk6GvevQF81nrtx05VQL1Ypatbbteq6u+WzzL1dbLg48snlLfX394uLilq1bn9m991Q278qp
+FqoVqacCvvDeBw3nflx5KmBQ15xZH4tv37GjrLz8jeqjqqVaqFbUnsDc0nPjn2+2h38Jq0+m
+d7765jtHGz774Xxb72+unGqhWpH6tYtVHx8NL9t6h8OKFYRk+XCpaqFaflkM1VItVEu1UC3V
+QrVQLdVCtVRLtVRLtVAt1UK1UC3VQrVUS7VUS7VQLdVCtVAt1UK1UC3VUi1US7VQLVRLtVAt
+VEu1VAvVUi1UC9VSLVQL1VIt1VIt1VItVAvVUi1UC9VSLVRLtVQL1UK1VAvVQrVUC9VSLdVC
+tVAt1UK1UC3VQrVUS7VUS7VQLdVCtVAt1UK1VEu1VEu1UC3VQrVQLdVCtVQL1VItVEu1UC1U
+S7VQLdVCtVQL1VItVAvVUi1US7VQLdVCtVQL1UK1VAvVUi1US7VQLdVCtVAt1UK1VAvVUi1U
+S7VQLVRLtVAt1VIt1VItVEu1UC1US7VQLdVSLdVSLVRLtVAtVEu1UC1US7VUC9VSLVQL1VIt
+VAvVUi3VQrVUC9VCtVQL1eI21eLfc3lUC9VSLVQL1VItVEu1UC3VQrgkC9UCUC1AtQBUC0C1
+ANUCUC0A1QJUC0C1AFQLUC0A1QJQLUC1AFQLQLUA1QJQLQDVAlQLQLUAVAtQLQDVAlAtQLUA
+VAtAtQDVcg6AagGoFoBqAaoFoFoAqgWoFoBqAagWoFoAqgWgWoBqAagWgGoBqgWgWgCqBfz/
+qmWMMWto/gLZOPJa
+</bitmap>
+<bitmap id="5" width="58" height="50" length="865" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" ColorKey="fbfbfd" encoding="base64">
+eNrtmE1LG0EYx+NrXBQtoXhQFJEYYnxpXEMrEQIJsgkSSihFog095OBFwZ5VqEe9ikggNyOi
+HqyoiO03CEHEg4iICC099DNIa//JtNNhNptskgkmdB/+hNnMDPnx5HmZ2YeHnw+GqlzfTB8g
+dlD5tFTV4t6qcCw3qHzUqvj3DdT/GfWpZCrQFuQFsrHvrw0PvxocdPfps9JRlecKGKD1qXUt
+HX88TiVSEJZFX7z1+/0NGWtsbGxqapIkCZ9msxmPDdrmdDpLAdaJygGD7Wt9/XezGcxzc3Mr
++WxtbW0/Y263e2hoqGhgSpsXlQXGrl8Zzc/PnwUCjyZTyuVSQ+7MzGDqrrcX49XV1b29vVgs
+JpwWj/geYFq0ad/W1f1obv6sKOAhOpdlFnU3HKZT9z095aPVQqW0NTU1nZ2d09PTRdC2trZ6
+vd7igIujxQJCC6pCIwF7BwYGxNLmjgTiW3riyptldCVoURnE0ubNMsQtaAOBALJsRZ+VL251
+0pJIqAraT5Lk8USJb08nJ2lCcbq1WiuB9osk6Y8E4d2hoF5WW1tLOm9/f3/eXgbURCKxvLws
+pPMWcU4ALX4UwAUdh0ZGRkQdbPQbdaxO3xL3Et+2tbX5fL4SgbkAxph+Eq9CeCQrfV4fDloI
+v8i7SPqccBZIJl/mQN3aen9/n+5liIeNjY3x8XGHw1G6h2kkcLQEmNLKsswV29PTyVTKlRV1
+eztyd9fLloV4PA5Um80mnJYYR6soCp1CjhOSk5Pg+bnMd96dmdvbPxUsGo3SXeXwLTtmaUly
+LS0twVeUFnZ09PriwvnvVLMbvrmx0UfQjo2NJZNJhD2iXSwta2pa5Is/Yywt7PAwdHk5jMH+
+/tT1tZ2dAi1qwujoqMViKTEMcrcJLsvIjYxgq2vCwcGbx0fT1ZVDXROEVDD9dYzbQpxst9sB
+HAwGs17ErFYrUBcXFzFuaZG7u0PIMLFXYLaU5V4MYEo7MTHBXW89Hg+ldblcQrwqkJabNWgN
+2iehhXKsJMcwdZbRWTWtcGCW1tJsyVq7aPlSVzBy+6azbAUr/XyrVXjZ7tD+rD0rbUdHB/dm
+KRQKUdqurq7Z2Vn27rC5uSmcVg2sRZu1HXC+FfvWTmd304rbHO88y/FG1JAhQ4YqWb8B0wZT
+mQ==
+</bitmap>
+<bitmap id="6" width="402" height="302" length="1349" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+eNrt1skNwkAUBUHnnwv5EAFpGOQFceCGD9NMPVUEX+OWl8XMLLbb/QGQoFqAagGoFoBqAaoF
+oFoAqgWoFoBqAagWoFoAqgWgWoBqAagWgGoBqgWgWgCqBagWgGoBqBagWgCqBaBagGoBqBaA
+agGqBaBaAKoFqBaAagGoFqBaAKoFoFqAagGoFoBqAarlDoBqAagWgGoBqgWgWgCqBagWgGoB
+qBagWgCqBaBagGoBqBaAagGqBaBaAKoFqBaAagGoFqBaAKoFoFqAagGoFoBqAaoFoFoAqgWo
+FoBqAagWoFoAqgWgWoBqAagWgGoBqgWgWgCqBaiWOwCqBaBaAKoFqBaAagGoFqBaAKoFoFqA
+agGoFoBqAaoFoFoAqgWoFoBqAagWoFoAqgWgWoBqAagWgGoBqgWgWgCqBagWXPXSLD3VYrZq
+rSthqoVqoVqqhWqhWqBaqBaqhWqpFqqFaoFqoVqoFqqlWqgWqgWqhWqBaqmWaqFaqBaoFqrF
+nF5vfKdaqqVahJL1GS7VUi3VIpGsd7hUS7VUi0qydqqlWqpFKFkH375qqRahZAmXaqkWYydr
+S5RwqZZqkUnWmSjhUi3VIpMs4VIt1SKXLOFSLdUilyzhUi3VIpcs4VIt1SKXLOFSLdUilyzh
+Ui3VIpcs4VIt1SKXLOFSLdUilyzhUi3VIpcs4VIt1SKXLOFSLdUilyzhUi3VIpcs4VIt1SKX
+LOFSLdUilyzhUi3VIpcs4VIt1SKXLOFSLdUilyzhUi3VIpcs4VIt1SKXLOFSLdUilyzhUi3V
+Ipcs4VIt1SKXLOFSLdUilyzhUi3VIpcs4VIt1ZKsXLKES7VUS7JyyRIu1VItycolS7hUS7Uk
+K5cs4VIt1ZIs4UK1kCzhUi3VQrKES7VUS7KEC9VCsoRLtVQLyRIu1VItyRIuVAvJEi7VUi0k
+S7hUS7UkS7hQLSRLuFRLtZAs4VIt1ZIs4RIu1UKyhEu1VAvJEi7VUi3JQrhUC8kSLtVSLSRL
+uFRLtSQL4VItJEu4VEu1kCzhUi3VkiyES7WQLOFSLdVCsoRLtVRLsvg9XPZ1qoVkjRwuz29Y
+qiVZCJdqIVnChWpJlqoIF6olWQiXaiFZwoVqSRbChWpJFsKlWkiWcKFakoVwoVqShXCpFtdW
+SyUS4fJ0VUu1hMu/FqolXEiWaiFckuW5qhbCJVmolnAhWaqFcEkWqoVwSRaqJVxIlmohXJKF
+aiFckoVqCReSpVoIl2ShWgiXZKFawoVkqRbCJVmoFsIlWaiWcAmXZKkWwiVZqBbCJVmoFsIl
+WaqFcEkWqoVwSRaqhXBJlmqplnBJFqqFcEkWqoVwSRaqJVyShWohXJKFaiFckoVqCZdkoVoI
+l2ShWgiXZKFawiVZqBbCJVmoFsIlWaiWcP1TuCRLtRAuyUK1EC7JQrWYPFyShWoJVyhckoVq
+CVcoXJKFaglXKFyShWoRCpdkoVqEwiVZqBahcEkWqkUoXJKFahEKl2ShWoTCJVmoFqFwSRaq
+RShckoVqEQqXZKFahMIlWagWoXBJFqpFKFyShWoRCpdkoVqEwiVZqBahcEkWqkUoXJKFahEK
+l2ShWoTCJVmoFqFwSRaqRShckoVqEQqXZKFahMIlWagWoXBJFqpFKFyShWoRCpdkoVq0wiVZ
+qBbpcDkRqkUoXI6DahEKl7OgWoTC5SCoFqFwOQWqBaiWagGqBaBaAKoFqBaAagGoFqBaAKoF
+oFqAagGoFoBqAaoFoFoAqgWoFoBqAagWoFoAqgWgWoBqAagWgGoBqgUwVLXMzEJ7AuX+LkU=
+</bitmap>
+<bitmap id="7" width="113" height="109" length="198" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+eNrt2sERgzAMRUH674V+qCBthAIgQzAeRVJWs/c/fmev22sFAAAAAAAAAAAAAAAAACZZOl6C
+pO9eJJVUUkkllVRSSSWVVFJJJZVUUkkllVRSSSWVVFJJJyY9vYg4Q7vJk15eZMwvd9MmvXWR
+MS93cyYduPien3Yl/Yekwxff83RX0vZJH158z+OupJJK6ude7b+R5XYllVTSh68ruitpxaRj
+ryu9K2nFpHdf12A3T9hmu78N23gXAAAAAAAAAADm2gEE2N/6
+</bitmap>
+<ipestyle name="presentation">
+<symbol name="arrow/arc(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/farc(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="mark/circle(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+0.4 0 0 0.4 0 0 e
+</path>
+</symbol>
+<symbol name="mark/disk(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+</path>
+</symbol>
+<symbol name="mark/fdisk(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke" fillrule="eofill">
+0.6 0 0 0.6 0 0 e
+0.4 0 0 0.4 0 0 e
+</path>
+<path fill="sym-fill">
+0.4 0 0 0.4 0 0 e
+</path>
+</group>
+</symbol>
+<symbol name="mark/box(sx)" transformations="translations">
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+</symbol>
+<symbol name="mark/square(sx)" transformations="translations">
+<path fill="sym-stroke">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+</path>
+</symbol>
+<symbol name="mark/fsquare(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+<path fill="sym-fill">
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/cross(sx)" transformations="translations">
+<group>
+<path fill="sym-stroke">
+-0.43 -0.57 m
+0.57 0.43 l
+0.43 0.57 l
+-0.57 -0.43 l
+h
+</path>
+<path fill="sym-stroke">
+-0.43 0.57 m
+0.57 -0.43 l
+0.43 -0.57 l
+-0.57 0.43 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="arrow/fnormal(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/pointed(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-0.8 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/fpointed(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-0.8 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/linear(spx)">
+<path stroke="sym-stroke" pen="sym-pen">
+-1 0.333 m
+0 0 l
+-1 -0.333 l
+</path>
+</symbol>
+<symbol name="arrow/fdouble(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+-1 0 m
+-2 0.333 l
+-2 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/double(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+-1 0 m
+-2 0.333 l
+-2 -0.333 l
+h
+</path>
+</symbol>
+<pen name="normal" value="1.2"/>
+<pen name="heavier" value="2.4"/>
+<pen name="fat" value="3.6"/>
+<pen name="ultrafat" value="6"/>
+<symbolsize name="normal" value="9"/>
+<symbolsize name="large" value="15"/>
+<symbolsize name="small" value="6"/>
+<symbolsize name="tiny" value="3.3"/>
+<arrowsize name="normal" value="15"/>
+<arrowsize name="large" value="20"/>
+<arrowsize name="small" value="10"/>
+<arrowsize name="tiny" value="6"/>
+<color name="red" value="1 0 0"/>
+<color name="green" value="0 1 0"/>
+<color name="blue" value="0 0 1"/>
+<color name="yellow" value="1 1 0"/>
+<color name="orange" value="1 0.647 0"/>
+<color name="gold" value="1 0.843 0"/>
+<color name="purple" value="0.627 0.125 0.941"/>
+<color name="gray" value="0.745"/>
+<color name="brown" value="0.647 0.165 0.165"/>
+<color name="navy" value="0 0 0.502"/>
+<color name="pink" value="1 0.753 0.796"/>
+<color name="seagreen" value="0.18 0.545 0.341"/>
+<color name="turquoise" value="0.251 0.878 0.816"/>
+<color name="violet" value="0.933 0.51 0.933"/>
+<color name="darkblue" value="0 0 0.545"/>
+<color name="darkcyan" value="0 0.545 0.545"/>
+<color name="darkgray" value="0.663"/>
+<color name="darkgreen" value="0 0.392 0"/>
+<color name="darkmagenta" value="0.545 0 0.545"/>
+<color name="darkorange" value="1 0.549 0"/>
+<color name="darkred" value="0.545 0 0"/>
+<color name="lightblue" value="0.678 0.847 0.902"/>
+<color name="lightcyan" value="0.878 1 1"/>
+<color name="lightgray" value="0.827"/>
+<color name="lightgreen" value="0.565 0.933 0.565"/>
+<color name="lightyellow" value="1 1 0.878"/>
+<color name="title" value="0.4 0 0.4"/>
+<dashstyle name="dashed" value="[4] 0"/>
+<dashstyle name="dotted" value="[1 3] 0"/>
+<dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
+<dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
+<textsize name="normal" value="\normalsize"/>
+<textsize name="large" value="\large"/>
+<textsize name="small" value="\normalsize"/>
+<textsize name="huge" value="\LARGE"/>
+<textstretch name="normal" value="2.8"/>
+<textstretch name="large" value="2.8"/>
+<textstretch name="small" value="2.4"/>
+<textstretch name="huge" value="2.8"/>
+<textstyle name="normal" begin="\begin{flushleft}" end="\end{flushleft}"/>
+<textstyle name="center" begin="\begin{center}" end="\end{center}"/>
+<textstyle name="itemize" begin="\begin{flushleft}\begin{itemize}" end="\end{itemize}\end{flushleft}"/>
+<textstyle name="item" begin="\begin{flushleft}\begin{itemize}\item{}" end="\end{itemize}\end{flushleft}"/>
+<gridsize name="16 pts (~6 mm)" value="16"/>
+<gridsize name="32 pts (~12 mm)" value="32"/>
+<gridsize name="10 pts (~3.5 mm)" value="10"/>
+<gridsize name="20 pts (~7 mm)" value="20"/>
+<gridsize name="14 pts (~5 mm)" value="14"/>
+<gridsize name="28 pts (~10 mm)" value="28"/>
+<gridsize name="56 pts (~20 mm)" value="56"/>
+<anglesize name="90 deg" value="90"/>
+<anglesize name="60 deg" value="60"/>
+<anglesize name="45 deg" value="45"/>
+<anglesize name="30 deg" value="30"/>
+<anglesize name="22.5 deg" value="22.5"/>
+<preamble>
+\renewcommand\rmdefault{cmss}
+\makeatletter
+\leftmargini 1.5em
+\leftmargin \leftmargini
+\leftmarginii  1.2em
+\leftmarginiii 1em
+\def\@listI{\leftmargin\leftmargini
+            \parsep \z@
+	    \partopsep 3pt
+	    \topsep \z@
+            \itemsep \z@}
+\@listI
+\def\@listii {\leftmargin\leftmarginii
+              \labelwidth\leftmarginii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \itemsep   \parsep}
+\def\@listiii{\leftmargin\leftmarginiii
+              \labelwidth\leftmarginiii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \partopsep \z@
+              \itemsep   \topsep}
+\makeatother
+</preamble>
+<layout paper="800 600" origin="32 0" frame="736 528" skip="32" crop="no"/>
+<titlestyle pos="368 554" size="large" color="title"  halign="center" valign="baseline"/>
+<tiling name="falling" angle="-60" step="12" width="3"/>
+<tiling name="rising" angle="30" step="12" width="3"/>
+</ipestyle>
+<ipestyle name="kaisttheme">
+<symbol name="Background">
+<group>
+<image matrix="1 0 0 1 -162.234 308.933" rect="339.004 239.003 396.996 288.997" bitmap="5"/>
+<group matrix="0.343668 0 0 0.343668 -51.9093 459.634">
+<path fill="0.563 0.727 0.855" fillrule="wind">
+76.697 277.771 m
+120.493 269.94
+192.854 264.827
+274.709 264.827 c
+356.564 264.827
+428.927 269.94
+472.718 277.771 c
+428.927 285.601
+356.564 290.72
+274.709 290.72 c
+192.854 290.72
+120.493 285.601
+76.697 277.771 c
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+275.279 299.355 m
+294.577 299.355 l
+294.577 373.497 l
+275.279 373.497 l
+275.279 299.355 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+418.065 373.465 m
+361.604 373.465 l
+361.669 357.398 l
+380.069 357.398 l
+380.069 299.214 l
+399.603 299.279 l
+399.603 357.398 l
+418.065 357.398 l
+418.065 373.465 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+249.098 374.512 m
+241.957 374.512 l
+229.799 374.512 l
+222.663 374.512 l
+200.923 313.64 l
+182.964 337.545 l
+209.964 373.497 l
+190.668 373.497 l
+169.085 344.764 l
+169.085 373.497 l
+149.792 373.497 l
+149.792 299.355 l
+169.085 299.355 l
+169.085 330.332 l
+192.384 299.326 l
+195.813 299.326 l
+211.677 299.326 l
+215.107 299.326 l
+235.337 355.983 l
+247.498 315.289 l
+229.329 315.289 l
+229.329 299.226 l
+259.475 299.226 l
+259.475 299.326 l
+271.567 299.326 l
+249.098 374.512 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+341.955 345.908 m
+341.927 345.95 l
+319.143 345.95 l
+319.143 357.493 l
+357.066 357.493 l
+357.066 373.56 l
+323.335 373.56 l
+323.318 373.532 l
+311.282 373.532
+301.522 363.769
+301.522 351.728 c
+301.522 339.879
+310.971 330.261
+322.742 329.946 c
+322.76 329.887 l
+347.43 329.887 l
+347.43 315.289 l
+303.776 315.289 l
+303.776 299.226 l
+342.373 299.226 l
+342.399 299.261 l
+354.979 299.635
+365.065 309.921
+365.065 322.573 c
+365.065 335.392
+354.739 345.781
+341.955 345.908 c
+</path>
+</group>
+<text transformations="translations" pos="100 588" stroke="kaist-dark-blue" type="label" valign="top">
+CS101</text>
+<path stroke="kaist-dark-blue" pen="fat">
+0 536 m
+736 536 l
+</path>
+</group>
+</symbol>
+<color name="kaist-dark-blue" value="0.065 0.155 0.563"/>
+<color name="dred" value="0.7 0 0"/>
+<layout paper="800 600" origin="32 0" frame="736 528" skip="32" crop="no"/>
+<titlestyle pos="736 554" size="large" color="title"  halign="right" valign="baseline"/>
+</ipestyle>
+<ipestyle name="cs101style">
+<preamble>
+\newcommand{\dred}[1]{\textcolor{dred}{#1}}
+\usepackage{fancyvrb}
+\DefineShortVerb[formatcom=\color{darkred}]{\|}
+\CustomVerbatimEnvironment{V}{Verbatim}{formatcom=\color{black},commandchars=\\\@\$}
+\def\r{$\rightarrow$}
+</preamble>
+</ipestyle>
+<page>
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="beta"/>
+<text layer="alpha" matrix="1 0 0 1 0 -24.8338" pin="h" transformations="translations" pos="0 471.203" stroke="darkblue" type="minipage" width="736" valign="top">\LARGE
+
+\begin{center}
+Introduction to Programming\\
+CS101
+\end{center}
+
+\medskip
+
+\Large
+\begin{center}
+Fall 2011
+\end{center}
+
+\medskip
+
+\begin{center}
+Lecture \#5
+\end{center}
+</text>
+<text layer="beta" matrix="1 0 0 1 0 15.3324" pin="h" transformations="translations" pos="0 280.51" stroke="darkblue" type="minipage" width="736" valign="top">Each section has one 3-hour lab per week.  This is \dred{the most important part of the course}!</text>
+<text layer="gamma" matrix="1 0 0 1 0 89.9456" pin="h" transformations="translations" pos="0 123.292" stroke="darkblue" type="minipage" width="736" valign="top">Four sections together have a lecture once a week:
+\begin{itemize}
+\item Sections A, B, C, D: Mondays by YoonJoon Lee;
+\item Sections E, F, G, H: Wednesdays by In-Young Ko;
+\item Sections I, J, K, L: Fridays by Sukyoung Ryu.
+\end{itemize}
+</text>
+<text layer="delta" matrix="1 0 0 1 0.00000526 -32.075" pin="h" transformations="translations" pos="0 95.7597" stroke="darkblue" type="minipage" width="736" valign="top">You must regularly check the course announcements on \dred{http://cs101.kaist.ac.kr}</text>
+</page>
+<page title="Homework \#1">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="kaist-dark-blue" type="minipage" width="736" valign="top">Homework \#1 is out!
+
+\medskip
+
+Please check the website: \dred{\url{http://cs101.kaist.ac.kr/}}
+</text>
+</page>
+<page title="Roadmap">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" matrix="1 0 0 1 0 0.00020526" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Last week we covered
+\begin{itemize}
+\item Functions with parameters and return values
+\end{itemize}
+</text>
+<text layer="beta" matrix="1 0 0 1 0 -96.8423" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">This week we will learn
+\begin{itemize}
+\item Local and global variables
+\item Modules
+\item Graphics
+ \begin{itemize}
+ \item Drawable objects
+ \item Reference points
+ \item Color interpolation
+ \item Depth
+ \item Transformation
+ \end{itemize}
+\end{itemize}</text>
+</page>
+<page title="Local variables" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">A function to evaluate the quadratic function $ax^2 + bx + c$:
+
+\begin{V}
+def quadratic(a, b, c, x):
+  \dred@quad_term$ = a * x ** 2
+  \dred@lin_term$ = b * x
+  return quad_term + lin_term + c
+\end{V}
+  </text>
+<text layer="beta" pin="h" transformations="translations" pos="0 316.458" stroke="darkblue" type="minipage" width="736" valign="top">The names |quad_term| and |lin_term| exist only during the execution of the function 
+|quadratic|.  They are called \dred{local variables}.</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 198.137" stroke="darkblue" type="minipage" width="736" valign="top">A function&apos;s \dred{parameters} are also \dred{local variables}.  When the function is called, the arguments in the function call are assigned to them.</text>
+</page>
+<page title="Variable are names" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" matrix="1 0 0 1 -0.00024049 -0.822459" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+def quadratic(a, b, c, x):
+  \dred@quad_term$ = a * x ** 2
+  \dred@lin_term$ = b * x
+  return quad_term + lin_term + c
+
+result = quadratic(2, 4, 5, 3)
+\end{V}
+  </text>
+<text layer="beta" pin="h" transformations="translations" pos="0 293.866" stroke="darkblue" type="minipage" width="736" valign="top"> Local variables are names that only exist during the execution of the function:
+\begin{V}
+  a \r 2
+  b \r 4
+  c \r 5
+  x \r 3 
+  quad_term \r 18
+  lin_term \r 12
+\end{V}
+</text>
+</page>
+<page title="Why local variables?
+" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Humans are not good at remembering too many things at the same time.  We can only understand software if we can use each part without needing to remember how it works internally.</text>
+<text layer="beta" matrix="1 0 0 1 -0.00012644 -123.219" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">To use the function |quadratic|, we only want to remember this:
+
+\begin{V}
+def quadratic(a, b, c, x):
+  # implemented somehow
+\end{V}
+  </text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 230.049" stroke="darkblue" type="minipage" width="736" valign="top">\dred{Modularization} means that software consists of parts that are developed and tested separately.  To use a part, you do not need to understand how it is implemented.</text>
+<text layer="delta" pin="h" transformations="translations" pos="0 106.304" stroke="darkblue" type="minipage" width="736" valign="top">\dred{cs1robots} is a module that implements the \dred{object} type |Robot|.  You can use |Robot| easily without understanding how it is implemented.
+\dred{$\longrightarrow$ object-oriented programming}</text>
+</page>
+<page title="Global variables" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Variables defined outside of a function are called \dred{global variables}.</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 443.153" stroke="darkblue" type="minipage" width="736" valign="top">Global variables can be used inside a function:
+
+\begin{V}
+\dred@hubo$ = Robot()
+
+def turn_right():
+  for i in range(3):
+    \dred@hubo$.turn_left()
+\end{V}
+</text>
+<text matrix="1 0 0 1 -19.3103 -12.8736" transformations="translations" pos="440.644 391.034" stroke="darkblue" type="label" valign="baseline">global variable |hubo|</text>
+<path stroke="darkred" arrow="normal/normal">
+405.701 384.598 m
+296.276 383.678
+217.195 389.195 s
+</path>
+<text transformations="translations" pos="431.448 265.057" stroke="darkblue" type="label" valign="baseline">using global variable</text>
+<path stroke="darkred" arrow="normal/normal">
+421.333 273.333 m
+354.207 271.494
+301.793 261.379 s
+</path>
+<text layer="gamma" pin="h" transformations="translations" pos="0 205.017" stroke="darkblue" type="minipage" width="736" valign="top">In large programs, using global variables is dangerous, as they can be accessed (by mistake) by all functions of the program.   </text>
+</page>
+<page title="Local and global" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">If a name is only used inside a function, it is \dred{global}:
+
+\begin{V}
+def f1():
+  return 3 * \dred@a$ + 5
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 392.943" stroke="darkblue" type="minipage" width="736" valign="top">If a name is assigned to in a function, it is \dred{local}:
+
+\begin{V}
+def f2(x):
+  \dred@a =$ 3 * x + 17
+  return \dred@a$ * 3 + 5 * \dred@a$
+\end{V}</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 224.41" stroke="darkblue" type="minipage" width="736" valign="top">What does this |test| function print?
+
+\begin{V}
+a = 17
+def test():
+  print a
+  a = 13
+  print a
+\end{V}
+</text>
+<text layer="delta" matrix="1 0 0 1 0 -16" transformations="translations" pos="320 176" stroke="darkblue" type="minipage" width="416" valign="top">\dred{Error!}\\
+|a| is a \dred{local} variable in |test| because of the assignment, but has no value inside the first print statement.</text>
+<path stroke="darkred">
+34.9733 88.0405
+11.4223 71.8491
+29.8215 50.506
+107.098 51.9779
+134.329 71.8491
+105.626 90.2484 u
+</path>
+<path stroke="darkred">
+15.3146 0 0 15.3146 123.29 103.496 e
+</path>
+</page>
+<page title="Assigning to global variables">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Sometimes we want to \dred{change} the value of a \dred{global} variable inside a function. 
+
+\begin{V}
+hubo = Robot
+hubo_direction = 0
+
+def turn_left():
+  hubo.turn_left()
+  \dred@global$ hubo_direction
+  hubo_direction += 90
+
+def turn_right():
+  for i in range(3):
+    hubo.turn_left()
+  \dred@global$ hubo_direction
+  hubo_direction -= 90
+\end{V}
+</text>
+</page>
+<page title="Local and global variables" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+a = &quot;Letter a&quot;
+
+def f(a):
+  print &quot;A = &quot;, a
+
+def g():
+  a = 7
+  f(a + 1)
+  print &quot;A = &quot;, a
+
+print &quot;A = &quot;, a
+f(3.14)
+print &quot;A = &quot;, a
+g()
+print &quot;A = &quot;, a
+\end{V}
+</text>
+<text layer="beta" transformations="translations" pos="448 400" stroke="darkblue" type="minipage" width="288" valign="top">\begin{V}
+A =  Letter a
+A =  3.14
+A =  Letter a
+A =  8
+A =  7
+A =  Letter a
+\end{V}
+</text>
+</page>
+<page title="Parameters are names" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<layer name="epsilon"/>
+<layer name="zeta"/>
+<layer name="eta"/>
+<layer name="theta"/>
+<layer name="iota"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta gamma" active="beta"/>
+<view layers="alpha beta delta" active="delta"/>
+<view layers="alpha beta delta epsilon zeta" active="epsilon"/>
+<view layers="alpha beta delta epsilon eta" active="eta"/>
+<view layers="alpha beta theta" active="theta"/>
+<view layers="alpha beta theta iota" active="iota"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">What does this code print?
+
+\begin{V}
+def swap(a, b):
+  a, b = b, a
+
+x, y = 123, 456
+swap(x, y)
+print x, y
+\end{V}
+</text>
+<path layer="gamma" stroke="darkblue" arrow="normal/normal">
+314.642 372.861 m
+248.405 372.861 l
+</path>
+<text layer="beta" matrix="1 0 0 1 0 -4.41582" transformations="translations" pos="569.288 289.696" stroke="darkblue" type="label" valign="baseline">123</text>
+<text matrix="1 0 0 1 3.67985 -3.67985" transformations="translations" pos="565.608 248.482" stroke="darkblue" type="label" valign="baseline">456</text>
+<text transformations="translations" pos="458.156 285.281" stroke="darkblue" type="label" valign="baseline">|x|
+</text>
+<text matrix="1 0 0 1 -4.41582 0" transformations="translations" pos="462.572 244.802" stroke="darkblue" type="label" valign="baseline">|y|</text>
+<path stroke="darkblue" arrow="normal/normal">
+485.387 291.904 m
+557.512 291.904 l
+</path>
+<path stroke="darkblue" arrow="normal/normal">
+486.859 252.898 m
+556.776 252.898 l
+</path>
+<path layer="delta" stroke="darkblue" arrow="normal/normal">
+210.134 340.478 m
+159.352 340.478 l
+</path>
+<path layer="zeta" stroke="darkblue" arrow="normal/normal">
+291.091 475.897 m
+231.477 475.897 l
+</path>
+<text layer="epsilon" matrix="1 0 0 1 -1.47194 0" transformations="translations" pos="459.628 169.733" stroke="darkblue" type="label" valign="baseline">|a|</text>
+<text matrix="1 0 0 1 -2.20791 0" transformations="translations" pos="460.364 132.935" stroke="darkblue" type="label" valign="baseline">|b|</text>
+<path layer="zeta" stroke="darkblue" arrow="normal/normal">
+483.179 175.621 m
+514.09 177.829
+514.09 224.931
+529.546 272.769
+558.248 279.393 s
+</path>
+<path stroke="darkblue" arrow="normal/normal">
+483.179 140.294 m
+518.506 146.918
+538.377 179.301
+525.13 231.555
+556.776 240.386 s
+</path>
+<path layer="eta" stroke="darkblue" arrow="normal/normal">
+292.563 440.57 m
+220.438 440.57 l
+</path>
+<path stroke="darkblue" arrow="normal/normal">
+490.539 175.621 m
+528.074 183.717
+522.186 224.195
+554.569 239.65 s
+</path>
+<path stroke="darkblue" arrow="normal/normal">
+489.803 143.974 m
+530.282 152.806
+511.146 215.363
+509.674 272.033
+555.305 280.129 s
+</path>
+<path layer="theta" stroke="darkblue" arrow="normal/normal">
+219.702 306.624 m
+165.976 306.624 l
+</path>
+<text layer="iota" pin="h" transformations="translations" pos="0 83.8883" stroke="darkblue" type="minipage" width="736" valign="top">|a| is a new name for the object |123|, not for the name |x|!</text>
+</page>
+<page title="Modules" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">A Python module is a collection of functions that are grouped together in a file.  Python comes with a large number of useful modules.  We can also create our own modules.
+
+\begin{itemize}
+\item |math| for mathematical functions
+\item |random| for random numbers and shuffling
+\item |sys| and |os| for accessing the operating system
+\item |urllib| to download files from the web
+\item |cs1robots| for playing with Hubo
+\item |cs1graphics| for graphics
+\item |cs1media| for processing photos
+\end{itemize}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 161.565" stroke="darkblue" type="minipage" width="736" valign="top">You can get information about a module using the |help| function:
+\begin{V}
+&gt;&gt;&gt; help(&quot;cs1media&quot;)
+&gt;&gt;&gt; help(&quot;cs1media.picture_tool&quot;)
+\end{V}
+</text>
+</page>
+<page title="Importing modules" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<layer name="epsilon"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Before you can use a module you have to \dred{import} it:
+
+\begin{V}
+import math
+print \dred@math.$sin(\dred@math.$pi / 4)
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 0 10.8794" pin="h" transformations="translations" pos="0 386.744" stroke="darkblue" type="minipage" width="736" valign="top">Sometimes it is useful to be able to use the functions from a module without the module name:
+
+\begin{V}
+from math \dred@import *$
+print \dred@sin$(\dred@pi$ / 4)      # OK
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 0 39.8912" pin="h" transformations="translations" pos="0 212.011" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+print \dred@math.$pi          # \dred@NameError:$ name &apos;math&apos;
+\end{V}
+</text>
+<text layer="delta" matrix="1 0 0 1 0 5.07706" pin="h" transformations="translations" pos="0 188.288" stroke="darkblue" type="minipage" width="736" valign="top">Or only import the functions you need:
+
+\begin{V}
+from math \dred@import sin, pi$
+print sin(pi / 4)      # OK
+\end{V}
+</text>
+<text layer="epsilon" matrix="1 0 0 1 0 23.2094" pin="h" transformations="translations" pos="0 47.0316" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+print cos(pi / 4)      # \dred@NameError:$ name &apos;cos&apos;
+print math.cos(pi/4)   # \dred@NameError:$ name &apos;math&apos;
+\end{V}
+</text>
+</page>
+<page title="Import examples" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We used this:
+
+\begin{V}
+from cs1robots import *
+create_world()
+hubo = Robot()
+hubo.move()
+hubo.turn_left()
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 0 -22.4841" pin="h" transformations="translations" pos="0 306.602" stroke="darkblue" type="minipage" width="736" valign="top">Instead we could use this:
+
+\begin{V}
+import cs1robots 
+cs1robots.create_world()
+hubo = cs1robots.Robot()
+hubo.move()
+hubo.turn_left()
+\end{V}
+</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 45.9823" stroke="darkblue" type="minipage" width="736" valign="top">In general, it is considered better not to use |import *|.</text>
+</page>
+<page title="Graphics" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We first need to create a canvas to draw on:
+
+\begin{V}
+from cs1graphics import *
+
+canvas = Canvas(400, 300)
+canvas.setBackgroundColor(&quot;light blue&quot;)
+canvas.setTitle(&quot;CS101 Drawing exercise&quot;)
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 286.319" stroke="darkblue" type="minipage" width="736" valign="top">The coordinate system: $x$ goes from 0 to 399 left-to-right, $y$ from 0 to 299 top-to-bottom.</text>
+<path stroke="darkblue" arrow="normal/normal">
+192 192 m
+496 192 l
+</path>
+<path stroke="darkblue" arrow="normal/normal">
+208 208 m
+208 32 l
+</path>
+<text matrix="1 0 0 1 -50 -8" transformations="translations" pos="528 176" stroke="darkblue" type="label" valign="baseline" style="math">x</text>
+<text matrix="1 0 0 1 -18 10" transformations="translations" pos="240 32" stroke="darkblue" type="label" valign="baseline" style="math">y</text>
+</page>
+<page title="Drawable objects" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha gamma" active="gamma"/>
+<view layers="alpha beta gamma" active="beta"/>
+<path layer="beta" stroke="darkred" fill="yellow">
+-11.5 500.5 m
+-11.5 364.5 l
+448.5 364.5 l
+448.5 500.5 l
+h
+</path>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">To create a drawing, we |add| drawable objects to the canvas:
+\begin{enumerate}
+\item |Circle(radius)|
+\item |Square(side)|
+\item |Rectangle(width, height)|
+\item |Polygon|
+\item |Path|
+\item |Text(message, font_size)|
+\item |Image(image_filename)|
+\end{enumerate}
+</text>
+<path stroke="darkblue" fill="pink">
+19.6977 0 0 19.6977 505.5 461.5 e
+</path>
+<path stroke="darkblue" fill="pink">
+577.5 458.5 m
+577.5 421.5 l
+614.5 421.5 l
+614.5 458.5 l
+h
+</path>
+<path stroke="darkblue" fill="pink">
+478.5 421.5 m
+478.5 392.5 l
+561.5 392.5 l
+561.5 421.5 l
+h
+</path>
+<path stroke="darkblue" fill="pink">
+612.5 389.5 m
+660.5 363.5 l
+681.5 385.5 l
+667.5 432.5 l
+663.5 400.5 l
+634.5 399.5 l
+649.5 378.5 l
+h
+</path>
+<path stroke="darkblue">
+461.5 342.5 m
+514.5 374.5 l
+539.5 341.5 l
+605.5 342.5 l
+595.5 369.5 l
+675.5 330.5 l
+</path>
+<text layer="beta" transformations="translations" pos="495.5 297.5" stroke="darkred" type="label" valign="baseline">fillable objects</text>
+<path stroke="darkred" fill="yellow" arrow="normal/normal">
+479.5 309.5 m
+398.5 373.5 l
+</path>
+<text layer="gamma" pin="h" transformations="translations" pos="0 236.107" stroke="darkblue" type="minipage" width="736" valign="top">Border color (color is a string or an $(r, g, b)$-tuple): 
+
+\begin{V}
+obj.setBorderColor(color)
+obj.getBorderColor()
+\end{V}
+
+</text>
+<text layer="beta" matrix="1 0 0 1 0 -123" pin="h" transformations="translations" pos="0 236.107" stroke="darkblue" type="minipage" width="736" valign="top">Fill color (color is a string or an $(r, g, b)$-tuple): 
+
+\begin{V}
+obj.setFillColor(color)
+obj.getFillColor()
+\end{V}
+
+</text>
+</page>
+<page title="Reference point" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Every object has a reference point.  The location of the reference point on the canvas is set using |move(dx, dy)| and |moveTo(x, y)|.
+
+\begin{V}
+sq = Square(100)
+canvas.add(sq)
+sq.setFillColor(&quot;blue&quot;)
+sq.setBorderColor(&quot;red&quot;)
+sq.setBorderWidth(5)
+sq.moveTo(200, 200)
+\end{V}
+</text>
+<image matrix="1 0 0 1 194 56" rect="217.269 150.764 518.731 377.236" bitmap="4"/>
+<text layer="beta" pin="h" transformations="translations" pos="0 185.897" stroke="darkblue" type="minipage" width="736" valign="top">Animation:
+
+\begin{V}
+for i in range(100):
+  sq.move(1, 0)
+\end{V}</text>
+<text layer="gamma" matrix="1 0 0 1 7 -21" transformations="translations" pos="408.5 164.5" stroke="darkred" type="label" valign="baseline">absolute coordinates</text>
+<text matrix="1 0 0 1 -4 0" transformations="translations" pos="419.5 84.5" stroke="darkred" type="label" valign="baseline">relative coordinates
+</text>
+<path stroke="darkred" arrow="normal/normal">
+394.5 152.5 m
+312.5 156.5
+208.5 216.5 s
+</path>
+<path stroke="darkred" arrow="normal/normal">
+395.5 92.5 m
+237.5 100.5
+227.5 100.5 s
+</path>
+</page>
+<page title="Sunrise and sunset" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+def animate_sunrise(sun):
+  w = canvas.getWidth()
+  h = canvas.getHeight()
+  r = sun.getRadius()
+  x0 = w / 2.0
+  y0 = h + r
+  xradius = w / 2.0 - r
+  yradius = h
+  for angle in range(181):
+    rad = (angle/180.0) * math.pi
+    x = x0 - xradius * math.cos(rad)
+    y = y0 - yradius * math.sin(rad)
+    sun.moveTo(x, y)
+\end{V}
+</text>
+</page>
+<page title="Color interpolation" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+def interpolate_colors(t, color1, color2):
+  &quot;&quot;&quot;Interpolate between color1 (for t == 0.0)
+  and color2 (for t == 1.0).&quot;&quot;&quot;
+  r1, g1, b1 = color1
+  r2, g2, b2 = color2
+  return (int((1-t) * r1 + t * r2), 
+          int((1-t) * g1 + t * g2), 
+          int((1-t) * b1 + t * b2))
+
+def color_value(color):
+  &quot;&quot;&quot;Convert a color name to an (r,g,b) tuple.&quot;&quot;&quot;
+  return Color(color).getColorValue()
+\end{V}
+</text>
+</page>
+<page title="Colorful sunrise and sunset" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top" size="small">\begin{V}
+def animate_sunrise(sun, morning_sun, noon_sun, 
+                    morning_sky, noon_sky):
+  \dred@morning_color = color_value(morning_sun)$
+  \dred@noon_color = color_value(noon_sun)$
+  \dred@dark_sky = color_value(morning_sky)$
+  \dred@bright_sky = color_value(noon_sky)$
+  w = canvas.getWidth()
+  # as before ...
+  for angle in range(181):
+    rad = (angle/180.0) * math.pi
+    \dred@t = math.sin(rad)$
+    \dred@col = interpolate_colors(t, morning_color, noon_color)$
+    \dred@sun.setFillColor(col)$
+    \dred@col = interpolate_colors(t, dark_sky, bright_sky)$
+    \dred@canvas.setBackgroundColor(col)$
+    x = x0 - xradius * math.cos(rad)
+    y = y0 - yradius * math.sin(rad)
+    sun.moveTo(x, y)
+\end{V}
+</text>
+</page>
+<page title="Depth" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<image layer="alpha" matrix="1 0 0 1 200 130.827" rect="217.269 150.764 518.731 377.236" bitmap="2"/>
+<text pin="h" transformations="translations" pos="0 528" stroke="darkred" type="minipage" width="736" valign="top">\begin{V}
+r = Rectangle(150, 75)
+canvas.add(r)
+r.setFillColor(&quot;yellow&quot;)
+r.moveTo(280, 150)
+\end{V}</text>
+<image layer="beta" matrix="1 0 0 1 200 -119.131" rect="217.269 150.764 518.731 377.236" bitmap="1"/>
+<text matrix="1 0 0 1 0 -86.8666" pin="h" transformations="translations" pos="0 363.963" stroke="darkblue" type="minipage" width="736" valign="top">Changing the depth:
+
+\begin{V}
+sq.setDepth(10)
+r.setDepth(20)
+\end{V}
+
+Objects with smaller depth \\
+appear in foreground.</text>
+</page>
+<page title="Rotating, scaling, flipping" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<image layer="alpha" matrix="1 0 0 1 219.235 149.741" rect="217.269 150.764 518.731 377.236" bitmap="6"/>
+<text pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We can rotate an object around \\
+its reference point:
+
+\begin{V}
+sq.rotate(45)
+\end{V}
+</text>
+<image layer="beta" matrix="1 0 0 1 219.235 -129.886" rect="217.269 150.764 518.731 377.236" bitmap="3"/>
+<text matrix="1 0 0 1 0 -20.6825" pin="h" transformations="translations" pos="0 420.218" stroke="darkblue" type="minipage" width="736" valign="top">Scaling makes an object smaller \\
+or larger:
+
+\begin{V}
+sq.scale(1.5)
+r.scale(0.5)
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 0 35.5739" pin="h" transformations="translations" pos="0 204.686" stroke="darkblue" type="minipage" width="736" valign="top">Fade-out:
+
+\begin{V}
+for i in range(80):
+  sq.scale(0.95)
+canvas.remove(sq)
+\end{V}
+</text>
+<text layer="delta" pin="h" transformations="translations" pos="0 65.5273" stroke="darkblue" type="minipage" width="736" valign="top">Flipping mirrors around an axis.</text>
+</page>
+<page title="Layers" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">A layer groups together several graphic objects so that they can be moved and transformed as a whole:
+
+\begin{V}
+car = Layer()
+tire1 = Circle(10, Point(-20,-10))
+tire1.setFillColor(&apos;black&apos;)
+car.add(tire1)
+tire2 = Circle(10, Point(20,-10))
+tire2.setFillColor(&apos;black&apos;)
+car.add(tire2)
+body = Rectangle(70, 30, Point(0, -25))
+body.setFillColor(&apos;blue&apos;)
+body.setDepth(60)
+car.add(body)
+\end{V}
+
+
+</text>
+<image matrix="1 0 0 1 270.535 34.8141" rect="325.63 223.13 410.37 304.87" bitmap="7"/>
+<text layer="beta" transformations="translations" pos="320 128" stroke="darkblue" type="minipage" width="416" valign="top">Animate car:
+\begin{V}
+for i in range(250):
+  car.move(2, 0)
+\end{V}
+</text>
+</page>
+<page title="Transformations" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">The whole layer can be transformed as a single object:
+
+\begin{V}
+for i in range(50):
+  car.move(2, 0)
+for i in range(22):
+  car.rotate(-1)
+for i in range(50):
+  car.move(2,-1)
+for i in range(22):
+  car.rotate(1)
+for i in range(50):
+  car.move(2,0)
+for i in range(10):
+  car.scale(1.05)
+car.flip(90)
+\end{V}
+</text>
+</page>
+<page title="Objects: state and actions" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<layer name="epsilon"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<view layers="alpha beta gamma delta epsilon" active="epsilon"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We have met some interesting types of objects: tuples, strings, robots, photos, and graphic objects like circles and squares.</text>
+<text layer="beta" matrix="1 0 0 1 0 8.02377" pin="h" transformations="translations" pos="0 437.729" stroke="darkblue" type="minipage" width="736" valign="top">An object has \dred{state} and can perform \dred{actions}.</text>
+<text layer="gamma" matrix="1 0 0 1 0 15.156" pin="h" transformations="translations" pos="0 380.932" stroke="darkblue" type="minipage" width="736" valign="top">|Robot|: The robot&apos;s state includes its position, orientation, and number of beepers carried.\\
+It supports actions to move, turn, drop and pick beepers, and to test various conditions. </text>
+<text layer="delta" matrix="1 0 0 1 0 21.3967" pin="h" transformations="translations" pos="0 229.137" stroke="darkblue" type="minipage" width="736" valign="top">|Circle|: Its state consists of its radius, position, depth, border and fill color.\\
+It supports various actions to change its color, size, and position, and to perform transformations.</text>
+<text layer="epsilon" matrix="1 0 0 1 0 7.13224" pin="h" transformations="translations" pos="0 93.3149" stroke="darkblue" type="minipage" width="736" valign="top">\dred{Picture}: Its state consists of the photo&apos;s width and height, and a color value for every pixel.\\
+It supports actions to look at or modify the color of each pixel.</text>
+</page>
+<page title="Mutable and immutable objects" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Objects whose state can never change are called \dred{immutable}.  In Python, string and tuple objects are immutable.</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 437.729" stroke="darkblue" type="minipage" width="736" valign="top">Objects whose state can change are called \dred{mutable}.   Robots, photos, and graphic objects are mutable.</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 347.458" stroke="darkblue" type="minipage" width="736" valign="top">Remember that we can have more than one name for the same object.  Be careful if this is a mutable object!
+
+\begin{V}
+sun = Circle(30)
+sun.setFillColor(&quot;dark orange&quot;)
+moon = sun
+moon.setFillColor(&quot;wheat&quot;)
+print sun.getFillColor()
+\end{V}
+</text>
+</page>
+<page title="Functions are objects" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">A function is an object:
+
+\begin{V}
+def f(x):
+  return math.sin(x / 3.0 + math.pi/4.0)
+
+print f
+print type(f)
+\end{V}
+</text>
+<text layer="beta" transformations="translations" pos="288 384" stroke="darkblue" type="minipage" width="448" valign="top">\begin{V}
+&lt;function f at 0xb7539a3c&gt;
+&lt;type &apos;function&apos;&gt;
+\end{V}
+</text>
+<path stroke="darkblue" arrow="normal/normal">
+205.718 374.333 m
+270.484 374.333 l
+</path>
+<path stroke="darkblue" arrow="normal/normal">
+205.718 341.95 m
+269.012 341.95 l
+</path>
+<text layer="gamma" pin="h" transformations="translations" pos="0 286.319" stroke="darkblue" type="minipage" width="736" valign="top">We can use a function as an argument:
+
+\begin{V}
+def print_table(func, x0, x1, step):
+  x = x0
+  while x &lt;= x1:
+    print x, func(x)
+    x += step
+
+print_table(f, -math.pi, 3 * math.pi, math.pi/8)
+\end{V}
+</text>
+</page>
+</ipe>

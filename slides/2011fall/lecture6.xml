@@ -1,0 +1,1491 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70206" creator="ipetoipe 7.2.7">
+<info created="D:20100118121208" modified="D:20111022115633" title="CS101 Lecture 6" author="Otfried Cheong"/>
+<preamble>\usepackage{url}</preamble>
+<bitmap id="1" width="58" height="50" length="865" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" ColorKey="fbfbfd" encoding="base64">
+eNrtmE1LG0EYx+NrXBQtoXhQFJEYYnxpXEMrEQIJsgkSSihFog095OBFwZ5VqEe9ikggNyOi
+HqyoiO03CEHEg4iICC099DNIa//JtNNhNptskgkmdB/+hNnMDPnx5HmZ2YeHnw+GqlzfTB8g
+dlD5tFTV4t6qcCw3qHzUqvj3DdT/GfWpZCrQFuQFsrHvrw0PvxocdPfps9JRlecKGKD1qXUt
+HX88TiVSEJZFX7z1+/0NGWtsbGxqapIkCZ9msxmPDdrmdDpLAdaJygGD7Wt9/XezGcxzc3Mr
++WxtbW0/Y263e2hoqGhgSpsXlQXGrl8Zzc/PnwUCjyZTyuVSQ+7MzGDqrrcX49XV1b29vVgs
+JpwWj/geYFq0ad/W1f1obv6sKOAhOpdlFnU3HKZT9z095aPVQqW0NTU1nZ2d09PTRdC2trZ6
+vd7igIujxQJCC6pCIwF7BwYGxNLmjgTiW3riyptldCVoURnE0ubNMsQtaAOBALJsRZ+VL251
+0pJIqAraT5Lk8USJb08nJ2lCcbq1WiuB9osk6Y8E4d2hoF5WW1tLOm9/f3/eXgbURCKxvLws
+pPMWcU4ALX4UwAUdh0ZGRkQdbPQbdaxO3xL3Et+2tbX5fL4SgbkAxph+Eq9CeCQrfV4fDloI
+v8i7SPqccBZIJl/mQN3aen9/n+5liIeNjY3x8XGHw1G6h2kkcLQEmNLKsswV29PTyVTKlRV1
+eztyd9fLloV4PA5Um80mnJYYR6soCp1CjhOSk5Pg+bnMd96dmdvbPxUsGo3SXeXwLTtmaUly
+LS0twVeUFnZ09PriwvnvVLMbvrmx0UfQjo2NJZNJhD2iXSwta2pa5Is/Yywt7PAwdHk5jMH+
+/tT1tZ2dAi1qwujoqMViKTEMcrcJLsvIjYxgq2vCwcGbx0fT1ZVDXROEVDD9dYzbQpxst9sB
+HAwGs17ErFYrUBcXFzFuaZG7u0PIMLFXYLaU5V4MYEo7MTHBXW89Hg+ldblcQrwqkJabNWgN
+2iehhXKsJMcwdZbRWTWtcGCW1tJsyVq7aPlSVzBy+6azbAUr/XyrVXjZ7tD+rD0rbUdHB/dm
+KRQKUdqurq7Z2Vn27rC5uSmcVg2sRZu1HXC+FfvWTmd304rbHO88y/FG1JAhQ4YqWb8B0wZT
+mQ==
+</bitmap>
+<bitmap id="2" width="347" height="379" length="20425" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" encoding="base64">
+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
+AAAAAICvj/8fCPk9Aw==
+</bitmap>
+<ipestyle name="presentation">
+<symbol name="arrow/arc(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/farc(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="mark/circle(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+0.4 0 0 0.4 0 0 e
+</path>
+</symbol>
+<symbol name="mark/disk(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+</path>
+</symbol>
+<symbol name="mark/fdisk(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke" fillrule="eofill">
+0.6 0 0 0.6 0 0 e
+0.4 0 0 0.4 0 0 e
+</path>
+<path fill="sym-fill">
+0.4 0 0 0.4 0 0 e
+</path>
+</group>
+</symbol>
+<symbol name="mark/box(sx)" transformations="translations">
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+</symbol>
+<symbol name="mark/square(sx)" transformations="translations">
+<path fill="sym-stroke">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+</path>
+</symbol>
+<symbol name="mark/fsquare(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+<path fill="sym-fill">
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/cross(sx)" transformations="translations">
+<group>
+<path fill="sym-stroke">
+-0.43 -0.57 m
+0.57 0.43 l
+0.43 0.57 l
+-0.57 -0.43 l
+h
+</path>
+<path fill="sym-stroke">
+-0.43 0.57 m
+0.57 -0.43 l
+0.43 -0.57 l
+-0.57 0.43 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="arrow/fnormal(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/pointed(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-0.8 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/fpointed(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-0.8 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/linear(spx)">
+<path stroke="sym-stroke" pen="sym-pen">
+-1 0.333 m
+0 0 l
+-1 -0.333 l
+</path>
+</symbol>
+<symbol name="arrow/fdouble(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+-1 0 m
+-2 0.333 l
+-2 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/double(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+-1 0 m
+-2 0.333 l
+-2 -0.333 l
+h
+</path>
+</symbol>
+<pen name="normal" value="1.2"/>
+<pen name="heavier" value="2.4"/>
+<pen name="fat" value="3.6"/>
+<pen name="ultrafat" value="6"/>
+<symbolsize name="normal" value="9"/>
+<symbolsize name="large" value="15"/>
+<symbolsize name="small" value="6"/>
+<symbolsize name="tiny" value="3.3"/>
+<arrowsize name="normal" value="15"/>
+<arrowsize name="large" value="20"/>
+<arrowsize name="small" value="10"/>
+<arrowsize name="tiny" value="6"/>
+<color name="red" value="1 0 0"/>
+<color name="green" value="0 1 0"/>
+<color name="blue" value="0 0 1"/>
+<color name="yellow" value="1 1 0"/>
+<color name="orange" value="1 0.647 0"/>
+<color name="gold" value="1 0.843 0"/>
+<color name="purple" value="0.627 0.125 0.941"/>
+<color name="gray" value="0.745"/>
+<color name="brown" value="0.647 0.165 0.165"/>
+<color name="navy" value="0 0 0.502"/>
+<color name="pink" value="1 0.753 0.796"/>
+<color name="seagreen" value="0.18 0.545 0.341"/>
+<color name="turquoise" value="0.251 0.878 0.816"/>
+<color name="violet" value="0.933 0.51 0.933"/>
+<color name="darkblue" value="0 0 0.545"/>
+<color name="darkcyan" value="0 0.545 0.545"/>
+<color name="darkgray" value="0.663"/>
+<color name="darkgreen" value="0 0.392 0"/>
+<color name="darkmagenta" value="0.545 0 0.545"/>
+<color name="darkorange" value="1 0.549 0"/>
+<color name="darkred" value="0.545 0 0"/>
+<color name="lightblue" value="0.678 0.847 0.902"/>
+<color name="lightcyan" value="0.878 1 1"/>
+<color name="lightgray" value="0.827"/>
+<color name="lightgreen" value="0.565 0.933 0.565"/>
+<color name="lightyellow" value="1 1 0.878"/>
+<color name="title" value="0.4 0 0.4"/>
+<dashstyle name="dashed" value="[4] 0"/>
+<dashstyle name="dotted" value="[1 3] 0"/>
+<dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
+<dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
+<textsize name="normal" value="\normalsize"/>
+<textsize name="large" value="\large"/>
+<textsize name="small" value="\normalsize"/>
+<textsize name="huge" value="\LARGE"/>
+<textstretch name="normal" value="2.8"/>
+<textstretch name="large" value="2.8"/>
+<textstretch name="small" value="2.4"/>
+<textstretch name="huge" value="2.8"/>
+<textstyle name="normal" begin="\begin{flushleft}" end="\end{flushleft}"/>
+<textstyle name="center" begin="\begin{center}" end="\end{center}"/>
+<textstyle name="itemize" begin="\begin{flushleft}\begin{itemize}" end="\end{itemize}\end{flushleft}"/>
+<textstyle name="item" begin="\begin{flushleft}\begin{itemize}\item{}" end="\end{itemize}\end{flushleft}"/>
+<gridsize name="16 pts (~6 mm)" value="16"/>
+<gridsize name="32 pts (~12 mm)" value="32"/>
+<gridsize name="10 pts (~3.5 mm)" value="10"/>
+<gridsize name="20 pts (~7 mm)" value="20"/>
+<gridsize name="14 pts (~5 mm)" value="14"/>
+<gridsize name="28 pts (~10 mm)" value="28"/>
+<gridsize name="56 pts (~20 mm)" value="56"/>
+<anglesize name="90 deg" value="90"/>
+<anglesize name="60 deg" value="60"/>
+<anglesize name="45 deg" value="45"/>
+<anglesize name="30 deg" value="30"/>
+<anglesize name="22.5 deg" value="22.5"/>
+<preamble>
+\renewcommand\rmdefault{cmss}
+\makeatletter
+\leftmargini 1.5em
+\leftmargin \leftmargini
+\leftmarginii  1.2em
+\leftmarginiii 1em
+\def\@listI{\leftmargin\leftmargini
+            \parsep \z@
+	    \partopsep 3pt
+	    \topsep \z@
+            \itemsep \z@}
+\@listI
+\def\@listii {\leftmargin\leftmarginii
+              \labelwidth\leftmarginii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \itemsep   \parsep}
+\def\@listiii{\leftmargin\leftmarginiii
+              \labelwidth\leftmarginiii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \partopsep \z@
+              \itemsep   \topsep}
+\makeatother
+</preamble>
+<layout paper="800 600" origin="32 0" frame="736 528" skip="32" crop="no"/>
+<titlestyle pos="368 554" size="large" color="title"  halign="center" valign="baseline"/>
+<tiling name="falling" angle="-60" step="12" width="3"/>
+<tiling name="rising" angle="30" step="12" width="3"/>
+</ipestyle>
+<ipestyle name="kaisttheme">
+<symbol name="Background">
+<group>
+<image matrix="1 0 0 1 -162.234 308.933" rect="339.004 239.003 396.996 288.997" bitmap="1"/>
+<group matrix="0.343668 0 0 0.343668 -51.9093 459.634">
+<path fill="0.563 0.727 0.855" fillrule="wind">
+76.697 277.771 m
+120.493 269.94
+192.854 264.827
+274.709 264.827 c
+356.564 264.827
+428.927 269.94
+472.718 277.771 c
+428.927 285.601
+356.564 290.72
+274.709 290.72 c
+192.854 290.72
+120.493 285.601
+76.697 277.771 c
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+275.279 299.355 m
+294.577 299.355 l
+294.577 373.497 l
+275.279 373.497 l
+275.279 299.355 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+418.065 373.465 m
+361.604 373.465 l
+361.669 357.398 l
+380.069 357.398 l
+380.069 299.214 l
+399.603 299.279 l
+399.603 357.398 l
+418.065 357.398 l
+418.065 373.465 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+249.098 374.512 m
+241.957 374.512 l
+229.799 374.512 l
+222.663 374.512 l
+200.923 313.64 l
+182.964 337.545 l
+209.964 373.497 l
+190.668 373.497 l
+169.085 344.764 l
+169.085 373.497 l
+149.792 373.497 l
+149.792 299.355 l
+169.085 299.355 l
+169.085 330.332 l
+192.384 299.326 l
+195.813 299.326 l
+211.677 299.326 l
+215.107 299.326 l
+235.337 355.983 l
+247.498 315.289 l
+229.329 315.289 l
+229.329 299.226 l
+259.475 299.226 l
+259.475 299.326 l
+271.567 299.326 l
+249.098 374.512 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+341.955 345.908 m
+341.927 345.95 l
+319.143 345.95 l
+319.143 357.493 l
+357.066 357.493 l
+357.066 373.56 l
+323.335 373.56 l
+323.318 373.532 l
+311.282 373.532
+301.522 363.769
+301.522 351.728 c
+301.522 339.879
+310.971 330.261
+322.742 329.946 c
+322.76 329.887 l
+347.43 329.887 l
+347.43 315.289 l
+303.776 315.289 l
+303.776 299.226 l
+342.373 299.226 l
+342.399 299.261 l
+354.979 299.635
+365.065 309.921
+365.065 322.573 c
+365.065 335.392
+354.739 345.781
+341.955 345.908 c
+</path>
+</group>
+<text transformations="translations" pos="100 588" stroke="kaist-dark-blue" type="label" valign="top">
+CS101</text>
+<path stroke="kaist-dark-blue" pen="fat">
+0 536 m
+736 536 l
+</path>
+</group>
+</symbol>
+<color name="kaist-dark-blue" value="0.065 0.155 0.563"/>
+<color name="dred" value="0.7 0 0"/>
+<layout paper="800 600" origin="32 0" frame="736 528" skip="32" crop="no"/>
+<titlestyle pos="736 554" size="large" color="title"  halign="right" valign="baseline"/>
+</ipestyle>
+<ipestyle name="cs101style">
+<preamble>
+\newcommand{\dred}[1]{\textcolor{dred}{#1}}
+\usepackage{fancyvrb}
+\DefineShortVerb[formatcom=\color{darkred}]{\|}
+\CustomVerbatimEnvironment{V}{Verbatim}{formatcom=\color{black},commandchars=\\\@\$}
+\def\r{$\rightarrow$}
+</preamble>
+</ipestyle>
+<page>
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="beta"/>
+<text layer="alpha" matrix="1 0 0 1 0 -24.8338" pin="h" transformations="translations" pos="0 471.203" stroke="darkblue" type="minipage" width="736" valign="top">\LARGE
+
+\begin{center}
+Introduction to Programming\\
+CS101
+\end{center}
+
+\medskip
+
+\Large
+\begin{center}
+Fall 2011
+\end{center}
+
+\medskip
+
+\begin{center}
+Lecture \#6
+\end{center}
+</text>
+<text layer="beta" matrix="1 0 0 1 0 15.3324" pin="h" transformations="translations" pos="0 280.51" stroke="darkblue" type="minipage" width="736" valign="top">Each section has one 3-hour lab per week.  This is \dred{the most important part of the course}!</text>
+<text layer="gamma" matrix="1 0 0 1 0 89.9456" pin="h" transformations="translations" pos="0 123.292" stroke="darkblue" type="minipage" width="736" valign="top">Four sections together have a lecture once a week:
+\begin{itemize}
+\item Sections A, B, C, D: Mondays by YoonJoon Lee;
+\item Sections E, F, G, H: Wednesdays by In-Young Ko;
+\item Sections I, J, K, L: Fridays by Sukyoung Ryu.
+\end{itemize}
+</text>
+<text layer="delta" matrix="1 0 0 1 0.00000526 -32.075" pin="h" transformations="translations" pos="0 95.7597" stroke="darkblue" type="minipage" width="736" valign="top">You must regularly check the course announcements on \dred{http://cs101.kaist.ac.kr}</text>
+</page>
+<page title="Roadmap">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="beta" matrix="1 0 0 1 0 -146.703" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">This week we will learn
+\begin{itemize}
+\item Lists
+ \begin{itemize}
+ \item Aliasing
+ \item Built-in functions
+ \item Traversing
+ \item Sorting
+ \item Reversing
+ \item Slicing
+ \item Ranking
+ \item Indexing
+ \end{itemize}
+\end{itemize}</text>
+<text layer="alpha" matrix="1 0 0 1 0 1.32093" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Last week we learned
+\begin{itemize}
+\item Local and global variables
+\item Modules
+\item Graphics
+\end{itemize}</text>
+</page>
+<page title="Lots of data" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" matrix="1 0 0 1 0 -75.6385" pin="h" transformations="translations" pos="0 528" stroke="black" type="minipage" width="736" valign="top" size="14">\begin{tabular}{lrrr}
+           Australia &amp;  2 &amp;  1 &amp;  0\\
+             Austria &amp;  4 &amp;  6 &amp;  6\\
+             Belarus &amp;  1 &amp;  1 &amp;  1\\
+              Canada &amp; 14 &amp;  7 &amp;  5\\
+               China &amp;  5 &amp;  2 &amp;  4\\
+             Croatia &amp;  0 &amp;  2 &amp;  1\\
+      Czech Republic &amp;  2 &amp;  0 &amp;  4\\
+             Estonia &amp;  0 &amp;  1 &amp;  0\\
+             Finland &amp;  0 &amp;  1 &amp;  4\\
+              France &amp;  2 &amp;  3 &amp;  6\\
+             Germany &amp; 10 &amp; 13 &amp;  7\\
+       Great Britain &amp;  1 &amp;  0 &amp;  0\\
+               Italy &amp;  1 &amp;  1 &amp;  3\\
+               Japan &amp;  0 &amp;  3 &amp;  2\\
+          Kazakhstan &amp;  0 &amp;  1 &amp;  0\\
+               Korea &amp;  6 &amp;  6 &amp;  2\\
+              Latvia &amp;  0 &amp;  2 &amp;  0\\
+         Netherlands &amp;  4 &amp;  1 &amp;  3\\
+              Norway &amp;  9 &amp;  8 &amp;  6\\
+              Poland &amp;  1 &amp;  3 &amp;  2\\
+  Russian Federation &amp;  3 &amp;  5 &amp;  7\\
+            Slovakia &amp;  1 &amp;  1 &amp;  1\\
+            Slovenia &amp;  0 &amp;  2 &amp;  1\\
+              Sweden &amp;  5 &amp;  2 &amp;  4\\
+         Switzerland &amp;  6 &amp;  0 &amp;  3\\
+       United States &amp;  9 &amp; 15 &amp; 13
+\end{tabular}
+</text>
+<text matrix="1 0 0 1 0 520.423" pin="h" transformations="translations" pos="0 7.44834" stroke="darkblue" type="minipage" width="736" valign="top">Here is a table of olympic medals from the 2010 Vancouver winter games:
+</text>
+<text matrix="1 0 0 1 73.3862 24.4621" transformations="translations" pos="268.793 428.199" stroke="darkblue" type="label" valign="baseline">Source: \dred{\url{www.vancouver2010.com}}</text>
+<text layer="beta" matrix="1 0 0 1 0 -32" transformations="translations" pos="256 416" stroke="darkblue" type="minipage" width="480" valign="top">How can we store this much data in Python?  We would need $4 \times 26$ variables\ldots</text>
+<text layer="gamma" transformations="translations" pos="256 224" stroke="darkblue" type="minipage" width="480" valign="top">The solution is to store all values together in a \dred{list}.</text>
+</page>
+<page title="Lists" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">To create a list, enclose the values in square brackets:
+
+\begin{V}
+countries = [ &quot;Australia&quot;, ... , &quot;United States&quot; ]
+gold = [2, 4, 1, 14, 5, 0, 2, 0, 0, 2, 10, 1, 1, 0, 
+        0, 6, 0, 4, 9, 1, 3, 1, 0, 5, 6, 9]
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 355.594" stroke="darkblue" type="minipage" width="736" valign="top">A list is an object of type |list|.</text>
+<text layer="gamma" matrix="1 0 0 1 0 5.88901" pin="h" transformations="translations" pos="0 298.797" stroke="darkblue" type="minipage" width="736" valign="top">We can access the elements of a list using an integer index.  The first element is at index |0|, the second at index |1|, and so on:
+
+\begin{V}
+&gt;&gt;&gt; countries[0]
+&apos;Australia&apos;
+&gt;&gt;&gt; countries[15]
+&apos;Korea&apos;
+&gt;&gt;&gt; gold[15]
+6
+\end{V}
+</text>
+<text layer="delta" transformations="translations" pos="384 208" stroke="darkblue" type="minipage" width="352" valign="top">Negative indices start at the end of the list:
+
+\begin{V}
+&gt;&gt;&gt; countries[-1]
+&apos;United States&apos;
+&gt;&gt;&gt; countries[-11]
+&apos;Korea&apos;
+\end{V}</text>
+</page>
+<page title="Lists">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">The length of a list is given by |len|:
+
+\begin{V}
+&gt;&gt;&gt; len(countries)
+26
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 392.943" stroke="darkblue" type="minipage" width="736" valign="top">The empty list is written |[]| and has length zero.</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 336.146" stroke="darkblue" type="minipage" width="736" valign="top">Lists can contain a mixture of objects of any type:
+
+\begin{V}
+&gt;&gt;&gt; korea = [ &apos;Korea&apos;, &apos;KR&apos;, 6, 6, 2 ]
+&gt;&gt;&gt; korea[1]
+&apos;KR&apos;
+&gt;&gt;&gt; korea[2]
+6
+\end{V}
+</text>
+<text layer="delta" pin="h" transformations="translations" pos="0 100.664" stroke="darkblue" type="minipage" width="736" valign="top">Or even:
+
+\begin{V}
+&gt;&gt;&gt; korea = [ &quot;Korea&quot;, &apos;KR&apos;, (6, 6, 2) ]
+\end{V}
+</text>
+</page>
+<page title="Lists are mutable" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">A list of noble gases:
+
+\begin{V}
+&gt;&gt;&gt; nobles = [ &apos;helium&apos;, &apos;none&apos;, &apos;argon&apos;, &apos;krypton&apos;, 
+               &apos;xenon&apos; ]
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 389.068" stroke="darkblue" type="minipage" width="736" valign="top">Oops.  Correct the typo:
+
+\begin{V}
+&gt;&gt;&gt; nobles[1] = &quot;neon&quot;
+&gt;&gt;&gt; nobles
+[&apos;helium&apos;, &apos;neon&apos;, &apos;argon&apos;, &apos;krypton&apos;, &apos;xenon&apos;]
+\end{V}
+</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 214.335" stroke="darkblue" type="minipage" width="736" valign="top" size="small">Oops oops. I forgot radon!
+
+\begin{V}
+&gt;&gt;&gt; nobles.append(&apos;radon&apos;)
+&gt;&gt;&gt; nobles
+[&apos;helium&apos;, &apos;neon&apos;, &apos;argon&apos;, &apos;krypton&apos;, &apos;xenon&apos;, &apos;radon&apos;]
+\end{V}
+</text>
+</page>
+<page title="Aliasing" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Reminder: An object can have more than one name.  This is called \dred{aliasing}.  We have to be careful when working with mutable objects:
+
+\begin{V}
+&gt;&gt;&gt; list1 = [&quot;A&quot;,&quot;B&quot;,&quot;C&quot;]
+&gt;&gt;&gt; list2 = list1
+&gt;&gt;&gt; len(list1)
+3
+&gt;&gt;&gt; list2.append(&quot;D&quot;)
+&gt;&gt;&gt; len(list1)
+4
+&gt;&gt;&gt; list1[1] = &quot;X&quot;
+&gt;&gt;&gt; list2
+[&apos;A&apos;, &apos;X&apos;, &apos;C&apos;, &apos;D&apos;]
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 -64 3.206" transformations="translations" pos="448 416" stroke="darkblue" type="minipage" width="352" valign="top">\begin{V}
+&gt;&gt;&gt; list1 = [&quot;A&quot;,&quot;B&quot;,&quot;C&quot;]
+&gt;&gt;&gt; list2 = [&quot;A&quot;,&quot;B&quot;,&quot;C&quot;]
+&gt;&gt;&gt; len(list1)
+3
+&gt;&gt;&gt; list2.append(&quot;D&quot;)
+&gt;&gt;&gt; len(list1)
+3
+&gt;&gt;&gt; list1[1] = &quot;X&quot;
+&gt;&gt;&gt; list2
+[&apos;A&apos;, &apos;B&apos;, &apos;C&apos;, &apos;D&apos;]
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 0 6.27451" pin="h" transformations="translations" pos="0 54.3224" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+&gt;&gt;&gt; list1 \dred@is$ list2
+True
+\end{V}
+</text>
+<text matrix="1 0 0 1 0 12.5969" transformations="translations" pos="384 48" stroke="darkblue" type="minipage" width="352" valign="top">\begin{V}
+&gt;&gt;&gt; list1 \dred@is$ list2
+False
+\end{V}
+</text>
+</page>
+<page title="Built-in functions on lists" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">|len| returns length of a list, |sum| the sum of the elements, |max| the largest element, |min| the smallest element:
+
+\begin{V}
+&gt;&gt;&gt; len(gold), sum(gold), max(gold), min(gold)
+(26, 86, 14, 0)
+&gt;&gt;&gt; len(silver), sum(silver), max(silver)
+(26, 87, 15)
+&gt;&gt;&gt; len(bronze), sum(bronze), max(bronze)
+(26, 85, 13)
+\end{V}
+</text>
+</page>
+<page title="Traversing a list" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">A |for| loop looks at every element of a list:
+
+\begin{V}
+for country in countries:
+  print country
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 -0.00000392 299.768" pin="h" transformations="translations" pos="0 100.665" stroke="darkblue" type="minipage" width="736" valign="top">The |range| function returns a list:
+
+\begin{V}
+&gt;&gt;&gt; range(10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+&gt;&gt;&gt; range(10, 15)
+[10, 11, 12, 13, 14]
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 0 16" pin="h" transformations="translations" pos="0 194.553" stroke="darkblue" type="minipage" width="736" valign="top">If we want to modify elements, we need the index:
+
+\begin{V}
+&gt;&gt;&gt; l = range(1, 11)
+&gt;&gt;&gt; for i in \dred@range(len(l))$:
+...   l[i] = l[i] ** 2
+&gt;&gt;&gt; l
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+\end{V}
+</text>
+</page>
+<page title="Traversing several lists" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s print out the total number of medals for each country:
+
+\begin{V}
+for i in range(len(countries)):
+  print countries[i], gold[i]+silver[i]+bronze[i]
+\end{V}</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 386.744" stroke="darkblue" type="minipage" width="736" valign="top">We can create a new list:
+
+\begin{V}
+totals = []
+for i in range(len(countries)):
+  medals = gold[i]+silver[i]+bronze[i]
+  totals.append( (medals, countries[i]) )
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 0 7.95294" pin="h" transformations="translations" pos="0 178.537" stroke="darkblue" type="minipage" width="736" valign="top">The list |totals| is now a list of tuples \dred{(medals, country)}.</text>
+<text matrix="1 0 0 1 0 19.9765" pin="h" transformations="translations" pos="0 118.641" stroke="darkblue" type="minipage" width="736" valign="top" size="small">\verb+[+\texttt{(3, &apos;Australia&apos;), (16, &apos;Austria&apos;), (3, &apos;Belarus&apos;), ..., (14, &apos;Korea&apos;), (2, &apos;Latvia&apos;), (8, &apos;Netherlands&apos;), ..., (11, &apos;Sweden&apos;), (9, &apos;Switzerland&apos;), (37, &apos;United States&apos;)}\verb+]+
+</text>
+</page>
+<page title="Sorting" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We can sort a list using its |sort| method:
+
+\begin{V}
+&gt;&gt;&gt; ta = [ &quot;Minsu&quot;, &quot;Hyunik&quot;, &quot;Hyo-Sil&quot;, 
+...        &quot;Junghwan&quot;, &quot;YeongJae&quot;, &quot;Jinki&quot; ]
+&gt;&gt;&gt; ta.sort()
+&gt;&gt;&gt; ta
+[&apos;Hyo-Sil&apos;, &apos;Hyunik&apos;, &apos;Jinki&apos;, &apos;Junghwan&apos;, 
+&apos;Minsu&apos;, &apos;YeongJae&apos;]
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 0 -49.4118" pin="h" transformations="translations" pos="0 316.274" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s sort the medal totals: |totals.sort()|.</text>
+<text matrix="1 0 0 1 0.784627 107.035" pin="h" transformations="translations" pos="0 118.641" stroke="darkblue" type="minipage" width="736" valign="top" size="small">\verb+[+\texttt{(1, &apos;Estonia&apos;), (1, &apos;Great Britain&apos;), (1, &apos;Kazakhstan&apos;),}\\
+~~\texttt{(2, &apos;Latvia&apos;), (3, &apos;Australia&apos;), (3, &apos;Belarus&apos;), ...,}\\
+~~\texttt{(14, &apos;Korea&apos;), ..., (26, &apos;Canada&apos;), (30, &apos;Germany&apos;),}\\
+~~\texttt{(37, &apos;United States&apos;)}\verb+]+
+</text>
+</page>
+<page title="Reversing" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta delta" active="delta"/>
+<view layers="alpha beta gamma delta" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We rather want the countries with the largest number of medals at the top:
+
+\begin{V}
+totals.reverse()
+\end{V}
+</text>
+<text matrix="1 0 0 1 0.00032504 281.153" pin="h" transformations="translations" pos="0 118.641" stroke="darkblue" type="minipage" width="736" valign="top" size="small">\verb+[+\texttt{(37, &apos;United States&apos;), (30, &apos;Germany&apos;), (26, &apos;Canada&apos;),}\\
+~~\texttt{(23, &apos;Norway&apos;), (16, &apos;Austria&apos;), ..., (14, &apos;Korea&apos;),}\\
+~~\texttt{(11, &apos;Sweden&apos;), ... (1, &apos;Estonia&apos;)}\verb+]+
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 263.12" stroke="darkblue" type="minipage" width="736" valign="top">Actually we only care about the top 10:
+
+\begin{V}
+top_ten = totals[\dred@:10$]
+for p in top_ten:
+  medals, country = p
+  print medals, country
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 -384 -112" transformations="translations" pos="384 176" stroke="darkblue" type="minipage" width="352" valign="top">\begin{V}
+for \dred@medals, country$ in top_ten:
+  print medals, country
+\end{V}
+</text>
+<text matrix="1 0 0 1 -36.0784 62.7451" transformations="translations" pos="528 32" stroke="darkred" type="label" valign="baseline">Unpack immediately</text>
+<text layer="delta" transformations="translations" pos="448 176" stroke="darkred" type="label" valign="baseline">Slicing</text>
+<path stroke="darkred" arrow="normal/normal">
+432 176 m
+320 176
+288 192 s
+</path>
+<path layer="gamma" stroke="darkred">
+144 192
+83.2941 196.078
+40.9412 181.176
+8.78431 126.275
+64.4706 109.804
+157.804 136.471
+269.961 116.863
+350.745 130.98
+274.667 192.941 u
+</path>
+<path stroke="darkred" arrow="normal/normal">
+479.373 100.392 m
+393.882 102.745
+324.863 83.1373
+257.412 79.2157
+185.255 90.1961
+168.784 67.451 s
+</path>
+</page>
+<page title="Slicing" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Slicing creates a \dred{new list} with elements of the given list:
+
+\begin{V}
+sublist = mylist[i:j]
+\end{V}
+
+Then |sublist| contains elements $i$, $i+1$, \ldots, $j-1$ of |mylist|.</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 386.744" stroke="darkblue" type="minipage" width="736" valign="top">If |i| is omitted, the sublist starts with the first element.
+</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 331.885" stroke="darkblue" type="minipage" width="736" valign="top">If |j| is omitted, then the sublist ends with the last element.</text>
+<text layer="delta" pin="h" transformations="translations" pos="0 274.315" stroke="darkblue" type="minipage" width="736" valign="top">Special case: We can create a copy of a list with 
+
+\begin{V}
+list2 = list1[:]
+\end{V}
+</text>
+</page>
+<page title="Ranking" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s create the top-10 lexicographical ranking:
+
+\begin{V}
+table = []
+for i in range(len(countries)):
+  table.append( (gold[i], silver[i], 
+                 bronze[i], countries[i]) )
+table.sort()
+top_ten = table[-10:]
+top_ten.reverse()
+for g,s,b,country in top_ten:
+  print country, g, s, b
+\end{V}
+</text>
+<image layer="beta" matrix="0.765593 0 0 0.785751 301.438 -40.1264" rect="194.522 74.5237 541.478 453.476" bitmap="2"/>
+</page>
+<page title="Selecting elements" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s find all countries that have only one kind of medal:
+
+\begin{V}
+def no_medals(countries, al, bl):
+  result = []
+  for i in range(len(countries)):
+    if al[i] == 0 and bl[i] == 0:
+      result.append(countries[i])
+  return result
+
+only_gold = no_medals(countries, silver, bronze)
+only_silver = no_medals(countries, gold, bronze)
+only_bronze = no_medals(countries, gold, silver)
+
+only_one = only_gold + only_silver + only_bronze
+\end{V}</text>
+<text layer="beta" transformations="translations" pos="285.241 35.8621" stroke="darkred" type="label" valign="baseline">list concatenation</text>
+<path stroke="darkred">
+14.2176 0 0 14.2176 314.897 106.897 e
+</path>
+<path stroke="darkred">
+11.8653 0 0 11.8653 520.414 107.586 e
+</path>
+</page>
+<page title="List methods" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">List objects |L| have the following methods:
+\begin{itemize}
+\item |L.append(v)|  add object |v| at the end
+\item |L.insert(i, v)| insert element at position |i|
+\item |L.pop()|  remove and return last element
+\item |L.pop(i)| remove and return element at position |i|
+\item |L.remove(v)| remove first element equal to |v|
+\item |L.index(v)| return index of first element equal to |v|
+\item |L.count(v)| return number of elements equal to |v|
+\item |L.extend(K)| append all elements of sequence |K| to |L|
+\item |L.reverse()| reverse the list
+\item |L.sort()| sort the list
+\end{itemize}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 139.56" stroke="darkblue" type="minipage" width="736" valign="top">What is the difference?
+
+\begin{V}
+    L.append(13)
+
+    L + [ 13 ]
+\end{V}
+</text>
+</page>
+<page title="Sequences
+" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" matrix="1 0 0 1 0 -0.689655" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Lists are a kind of \dred{sequence}.   We already met other kinds of sequences: strings, and tuples:
+</text>
+<text layer="beta" matrix="1 0 0 1 0 160" transformations="translations" pos="0 288" stroke="darkblue" type="minipage" width="320" valign="top">Strings:
+
+\begin{V}
+&gt;&gt;&gt; a = &quot;CS101&quot;
+&gt;&gt;&gt; a[0]
+&apos;C&apos;
+&gt;&gt;&gt; a[-1]
+&apos;1&apos;
+&gt;&gt;&gt; a[2:]
+&apos;101&apos;
+&gt;&gt;&gt; for i in a:
+...   print i,
+C S 1 0 1
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 -32 0" transformations="translations" pos="384 448" stroke="darkblue" type="minipage" width="352" valign="top">Tuples:
+
+\begin{V}
+&gt;&gt;&gt; t = (&quot;CS101&quot;, &quot;A+&quot;, 13)
+&gt;&gt;&gt; t[0]
+&apos;CS101&apos;
+&gt;&gt;&gt; t[-1]
+13
+&gt;&gt;&gt; t[1:]
+(&apos;A+&apos;, 13)
+&gt;&gt;&gt; for i in t:
+...   print i,
+CS101 A+ 13
+\end{V}</text>
+</page>
+<page title="Lists, tuples, strings" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" matrix="1 0 0 1 0 528" pin="h" transformations="translations" pos="0 0" stroke="darkblue" type="minipage" width="736" valign="top">Lists and tuples are very similar, but lists are \dred{mutable}, while tuples (and strings) are \dred{immutable}:
+
+\begin{V}
+&gt;&gt;&gt; t[0] = &quot;CS206&quot;
+TypeError: &apos;tuple&apos; object does not support 
+item assignment
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 319.793" stroke="darkblue" type="minipage" width="736" valign="top">We can convert a sequence into a list or tuple using the |list| and |tuple| functions:
+
+\begin{V}
+&gt;&gt;&gt; list(t)
+[&apos;CS101&apos;, &apos;A+&apos;, 13]
+&gt;&gt;&gt; tuple(gold)
+(2, 4, 1, 14, 5, 0, 2, 0, 0, ..., 0, 5, 6, 9)
+&gt;&gt;&gt; list(&quot;CS101&quot;)
+[&apos;C&apos;, &apos;S&apos;, &apos;1&apos;, &apos;0&apos;, &apos;1&apos;]
+\end{V}</text>
+</page>
+<page title="Back to medals" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Using four lists to store the medal information is not typical for Python.  We would normally make a single list of tuples: 
+
+\begin{V}
+medals = [ ( &apos;Australia&apos;, 2, 1, 0 ),
+           ( &apos;Austria&apos;, 4, 6, 6 ),
+           ...
+           ( &apos;United States&apos;, 9, 15, 13 ) ]
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 288.643" stroke="darkblue" type="minipage" width="736" valign="top">Print total number of medals for each country:
+
+\begin{V}
+def print_totals1():
+  for country, g, s, b in medals:
+    print country + &quot;:&quot;, g + s + b
+\end{V}</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 113.91" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+def print_totals2():
+  for item in medals:
+    print item[0] + &quot;:&quot;, sum(item[1:])
+\end{V}
+</text>
+</page>
+<page title="Top ten again" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Instead of creating a new list, let&apos;s sort the original list by total number of medals:
+
+\begin{V}
+def \dred@compare$(item1, item2):
+  medals1 = sum(item1[1:])
+  medals2 = sum(item2[1:])
+  return \dred@cmp$(medals2, medals1)
+
+def top_ten():
+  medals.sort(\dred@compare$)
+  top_ten = medals[:10]
+  for item in top_ten:
+    print item[0] + &quot;:&quot;, sum(item[1:])
+\end{V}
+</text>
+<text matrix="1 0 0 1 0 160" transformations="translations" pos="480 272" stroke="darkblue" type="minipage" width="256" valign="top" size="20">\begin{V}
+United States: 37
+Germany: 30
+Canada: 26
+Norway: 23
+Austria: 16
+Russian Federation: 15
+Korea: 14
+China: 11
+France: 11
+Sweden: 11
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 85.4724" stroke="darkblue" type="minipage" width="736" valign="top">|cmp(a,b)| returns |-1| if $a &lt; b$, |0| if $a = b$, and |+1| if $a &gt; b$.</text>
+</page>
+<page title="Histogram" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We want to create a histogram of medals:
+
+</text>
+<text pin="h" transformations="translations" pos="0 471.203" stroke="darkblue" type="minipage" width="192" valign="top" size="20">\begin{V}
+0~2:   ****
+3~5:   ********
+6~8:   ***
+9~11:  ****
+12~14: *
+15~17: **
+18~20:
+21~23: *
+24~26: *
+27~29:
+30~32: *
+33~35:
+36~38: *
+\end{V}</text>
+<text layer="beta" transformations="translations" pos="192 464" stroke="darkblue" type="minipage" width="544" valign="top">\begin{V}
+def histogram():
+  t = [0] \dred@*$ 13
+  for item in medals:
+    total = sum(item[1:])
+    t[total / 3] += 1
+  for i in range(13):
+    print str(3*i) + &quot;~&quot; + str(3*i+2) 
+          + &quot;:\char92t&quot; + (&quot;*&quot; * t[i])
+\end{V}
+</text>
+</page>
+<page title="Computing prime numbers" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Sieve of Eratosthenes
+
+\begin{V}
+def sieve(n):
+  t = range(3, n, 2)
+  sqrtn = int(math.sqrt(n))
+  i = 0
+  while t[i] &lt;= sqrtn:
+    # remove all multiples of t[i]
+    p = t[i]
+    for j in range(len(t)-1, i, -1):
+      if t[j] % p == 0:
+        t.pop(j)
+    i += 1
+  return t
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 -3.44828 6.34483" transformations="translations" pos="320 176" stroke="darkblue" type="minipage" width="416" valign="top" size="12">\texttt{3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541, 547, 557, 563, 569, 571, 577, 587, 593, 599, 601, 607, 613, 617, 619, 631, 641, 643, 647, 653, 659, 661, 673, 677, 683, 691, 701, 709, 719, 727, 733, 739, 743, 751, 757, 761, 769, 773, 787, 797, 809, 811, 821, 823, 827, 829, 839, 853, 857, 859, 863, 877, 881, 883, 887, 907, 911, 919, 929, 937, 941, 947, 953, 967, 971, 977, 983, 991, 997}
+</text>
+</page>
+</ipe>

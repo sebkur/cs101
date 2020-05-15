@@ -1,0 +1,1054 @@
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipe version="70206" creator="ipetoipe 7.2.7">
+<info created="D:20100118121208" modified="D:20100909001634" title="CS101 Lecture 6" author="Otfried Cheong"/>
+<bitmap id="1" width="58" height="50" length="865" ColorSpace="DeviceRGB" Filter="FlateDecode" BitsPerComponent="8" ColorKey="fbfbfd" encoding="base64">
+eNrtmE1LG0EYx+NrXBQtoXhQFJEYYnxpXEMrEQIJsgkSSihFog095OBFwZ5VqEe9ikggNyOi
+HqyoiO03CEHEg4iICC099DNIa//JtNNhNptskgkmdB/+hNnMDPnx5HmZ2YeHnw+GqlzfTB8g
+dlD5tFTV4t6qcCw3qHzUqvj3DdT/GfWpZCrQFuQFsrHvrw0PvxocdPfps9JRlecKGKD1qXUt
+HX88TiVSEJZFX7z1+/0NGWtsbGxqapIkCZ9msxmPDdrmdDpLAdaJygGD7Wt9/XezGcxzc3Mr
++WxtbW0/Y263e2hoqGhgSpsXlQXGrl8Zzc/PnwUCjyZTyuVSQ+7MzGDqrrcX49XV1b29vVgs
+JpwWj/geYFq0ad/W1f1obv6sKOAhOpdlFnU3HKZT9z095aPVQqW0NTU1nZ2d09PTRdC2trZ6
+vd7igIujxQJCC6pCIwF7BwYGxNLmjgTiW3riyptldCVoURnE0ubNMsQtaAOBALJsRZ+VL251
+0pJIqAraT5Lk8USJb08nJ2lCcbq1WiuB9osk6Y8E4d2hoF5WW1tLOm9/f3/eXgbURCKxvLws
+pPMWcU4ALX4UwAUdh0ZGRkQdbPQbdaxO3xL3Et+2tbX5fL4SgbkAxph+Eq9CeCQrfV4fDloI
+v8i7SPqccBZIJl/mQN3aen9/n+5liIeNjY3x8XGHw1G6h2kkcLQEmNLKsswV29PTyVTKlRV1
+eztyd9fLloV4PA5Um80mnJYYR6soCp1CjhOSk5Pg+bnMd96dmdvbPxUsGo3SXeXwLTtmaUly
+LS0twVeUFnZ09PriwvnvVLMbvrmx0UfQjo2NJZNJhD2iXSwta2pa5Is/Yywt7PAwdHk5jMH+
+/tT1tZ2dAi1qwujoqMViKTEMcrcJLsvIjYxgq2vCwcGbx0fT1ZVDXROEVDD9dYzbQpxst9sB
+HAwGs17ErFYrUBcXFzFuaZG7u0PIMLFXYLaU5V4MYEo7MTHBXW89Hg+ldblcQrwqkJabNWgN
+2iehhXKsJMcwdZbRWTWtcGCW1tJsyVq7aPlSVzBy+6azbAUr/XyrVXjZ7tD+rD0rbUdHB/dm
+KRQKUdqurq7Z2Vn27rC5uSmcVg2sRZu1HXC+FfvWTmd304rbHO88y/FG1JAhQ4YqWb8B0wZT
+mQ==
+</bitmap>
+<ipestyle name="presentation">
+<symbol name="arrow/arc(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/farc(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="mark/circle(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+0.4 0 0 0.4 0 0 e
+</path>
+</symbol>
+<symbol name="mark/disk(sx)" transformations="translations">
+<path fill="sym-stroke">
+0.6 0 0 0.6 0 0 e
+</path>
+</symbol>
+<symbol name="mark/fdisk(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke" fillrule="eofill">
+0.6 0 0 0.6 0 0 e
+0.4 0 0 0.4 0 0 e
+</path>
+<path fill="sym-fill">
+0.4 0 0 0.4 0 0 e
+</path>
+</group>
+</symbol>
+<symbol name="mark/box(sx)" transformations="translations">
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+</symbol>
+<symbol name="mark/square(sx)" transformations="translations">
+<path fill="sym-stroke">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+</path>
+</symbol>
+<symbol name="mark/fsquare(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.6 m
+0.6 -0.6 l
+0.6 0.6 l
+-0.6 0.6 l
+h
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+<path fill="sym-fill">
+-0.4 -0.4 m
+0.4 -0.4 l
+0.4 0.4 l
+-0.4 0.4 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/cross(sx)" transformations="translations">
+<group>
+<path fill="sym-stroke">
+-0.43 -0.57 m
+0.57 0.43 l
+0.43 0.57 l
+-0.57 -0.43 l
+h
+</path>
+<path fill="sym-stroke">
+-0.43 0.57 m
+0.57 -0.43 l
+0.43 -0.57 l
+-0.57 0.43 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="arrow/fnormal(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/pointed(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-0.8 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/fpointed(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-0.8 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/linear(spx)">
+<path stroke="sym-stroke" pen="sym-pen">
+-1 0.333 m
+0 0 l
+-1 -0.333 l
+</path>
+</symbol>
+<symbol name="arrow/fdouble(spx)">
+<path stroke="sym-stroke" fill="white" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+-1 0 m
+-2 0.333 l
+-2 -0.333 l
+h
+</path>
+</symbol>
+<symbol name="arrow/double(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+-1 -0.333 l
+h
+-1 0 m
+-2 0.333 l
+-2 -0.333 l
+h
+</path>
+</symbol>
+<pen name="normal" value="1.2"/>
+<pen name="heavier" value="2.4"/>
+<pen name="fat" value="3.6"/>
+<pen name="ultrafat" value="6"/>
+<symbolsize name="normal" value="9"/>
+<symbolsize name="large" value="15"/>
+<symbolsize name="small" value="6"/>
+<symbolsize name="tiny" value="3.3"/>
+<arrowsize name="normal" value="15"/>
+<arrowsize name="large" value="20"/>
+<arrowsize name="small" value="10"/>
+<arrowsize name="tiny" value="6"/>
+<color name="red" value="1 0 0"/>
+<color name="green" value="0 1 0"/>
+<color name="blue" value="0 0 1"/>
+<color name="yellow" value="1 1 0"/>
+<color name="orange" value="1 0.647 0"/>
+<color name="gold" value="1 0.843 0"/>
+<color name="purple" value="0.627 0.125 0.941"/>
+<color name="gray" value="0.745"/>
+<color name="brown" value="0.647 0.165 0.165"/>
+<color name="navy" value="0 0 0.502"/>
+<color name="pink" value="1 0.753 0.796"/>
+<color name="seagreen" value="0.18 0.545 0.341"/>
+<color name="turquoise" value="0.251 0.878 0.816"/>
+<color name="violet" value="0.933 0.51 0.933"/>
+<color name="darkblue" value="0 0 0.545"/>
+<color name="darkcyan" value="0 0.545 0.545"/>
+<color name="darkgray" value="0.663"/>
+<color name="darkgreen" value="0 0.392 0"/>
+<color name="darkmagenta" value="0.545 0 0.545"/>
+<color name="darkorange" value="1 0.549 0"/>
+<color name="darkred" value="0.545 0 0"/>
+<color name="lightblue" value="0.678 0.847 0.902"/>
+<color name="lightcyan" value="0.878 1 1"/>
+<color name="lightgray" value="0.827"/>
+<color name="lightgreen" value="0.565 0.933 0.565"/>
+<color name="lightyellow" value="1 1 0.878"/>
+<color name="title" value="0.4 0 0.4"/>
+<dashstyle name="dashed" value="[4] 0"/>
+<dashstyle name="dotted" value="[1 3] 0"/>
+<dashstyle name="dash dotted" value="[4 2 1 2] 0"/>
+<dashstyle name="dash dot dotted" value="[4 2 1 2 1 2] 0"/>
+<textsize name="normal" value="\normalsize"/>
+<textsize name="large" value="\large"/>
+<textsize name="small" value="\normalsize"/>
+<textsize name="huge" value="\LARGE"/>
+<textstretch name="normal" value="2.8"/>
+<textstretch name="large" value="2.8"/>
+<textstretch name="small" value="2.4"/>
+<textstretch name="huge" value="2.8"/>
+<textstyle name="normal" begin="\begin{flushleft}" end="\end{flushleft}"/>
+<textstyle name="center" begin="\begin{center}" end="\end{center}"/>
+<textstyle name="itemize" begin="\begin{flushleft}\begin{itemize}" end="\end{itemize}\end{flushleft}"/>
+<textstyle name="item" begin="\begin{flushleft}\begin{itemize}\item{}" end="\end{itemize}\end{flushleft}"/>
+<gridsize name="16 pts (~6 mm)" value="16"/>
+<gridsize name="32 pts (~12 mm)" value="32"/>
+<gridsize name="10 pts (~3.5 mm)" value="10"/>
+<gridsize name="20 pts (~7 mm)" value="20"/>
+<gridsize name="14 pts (~5 mm)" value="14"/>
+<gridsize name="28 pts (~10 mm)" value="28"/>
+<gridsize name="56 pts (~20 mm)" value="56"/>
+<anglesize name="90 deg" value="90"/>
+<anglesize name="60 deg" value="60"/>
+<anglesize name="45 deg" value="45"/>
+<anglesize name="30 deg" value="30"/>
+<anglesize name="22.5 deg" value="22.5"/>
+<preamble>
+\renewcommand\rmdefault{cmss}
+\makeatletter
+\leftmargini 1.5em
+\leftmargin \leftmargini
+\leftmarginii  1.2em
+\leftmarginiii 1em
+\def\@listI{\leftmargin\leftmargini
+            \parsep \z@
+	    \partopsep 3pt
+	    \topsep \z@
+            \itemsep \z@}
+\@listI
+\def\@listii {\leftmargin\leftmarginii
+              \labelwidth\leftmarginii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \itemsep   \parsep}
+\def\@listiii{\leftmargin\leftmarginiii
+              \labelwidth\leftmarginiii
+              \advance\labelwidth-\labelsep
+              \topsep    \z@
+              \parsep    \z@
+              \partopsep \z@
+              \itemsep   \topsep}
+\makeatother
+</preamble>
+<layout paper="800 600" origin="32 0" frame="736 528" skip="32" crop="no"/>
+<titlestyle pos="368 554" size="large" color="title"  halign="center" valign="baseline"/>
+<tiling name="falling" angle="-60" step="12" width="3"/>
+<tiling name="rising" angle="30" step="12" width="3"/>
+</ipestyle>
+<ipestyle name="kaisttheme">
+<symbol name="Background">
+<group>
+<image matrix="1 0 0 1 -162.234 308.933" rect="339.004 239.003 396.996 288.997" bitmap="1"/>
+<group matrix="0.343668 0 0 0.343668 -51.9093 459.634">
+<path fill="0.563 0.727 0.855" fillrule="wind">
+76.697 277.771 m
+120.493 269.94
+192.854 264.827
+274.709 264.827 c
+356.564 264.827
+428.927 269.94
+472.718 277.771 c
+428.927 285.601
+356.564 290.72
+274.709 290.72 c
+192.854 290.72
+120.493 285.601
+76.697 277.771 c
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+275.279 299.355 m
+294.577 299.355 l
+294.577 373.497 l
+275.279 373.497 l
+275.279 299.355 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+418.065 373.465 m
+361.604 373.465 l
+361.669 357.398 l
+380.069 357.398 l
+380.069 299.214 l
+399.603 299.279 l
+399.603 357.398 l
+418.065 357.398 l
+418.065 373.465 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+249.098 374.512 m
+241.957 374.512 l
+229.799 374.512 l
+222.663 374.512 l
+200.923 313.64 l
+182.964 337.545 l
+209.964 373.497 l
+190.668 373.497 l
+169.085 344.764 l
+169.085 373.497 l
+149.792 373.497 l
+149.792 299.355 l
+169.085 299.355 l
+169.085 330.332 l
+192.384 299.326 l
+195.813 299.326 l
+211.677 299.326 l
+215.107 299.326 l
+235.337 355.983 l
+247.498 315.289 l
+229.329 315.289 l
+229.329 299.226 l
+259.475 299.226 l
+259.475 299.326 l
+271.567 299.326 l
+249.098 374.512 l
+h
+</path>
+<path fill="0.065 0.155 0.563" fillrule="wind">
+341.955 345.908 m
+341.927 345.95 l
+319.143 345.95 l
+319.143 357.493 l
+357.066 357.493 l
+357.066 373.56 l
+323.335 373.56 l
+323.318 373.532 l
+311.282 373.532
+301.522 363.769
+301.522 351.728 c
+301.522 339.879
+310.971 330.261
+322.742 329.946 c
+322.76 329.887 l
+347.43 329.887 l
+347.43 315.289 l
+303.776 315.289 l
+303.776 299.226 l
+342.373 299.226 l
+342.399 299.261 l
+354.979 299.635
+365.065 309.921
+365.065 322.573 c
+365.065 335.392
+354.739 345.781
+341.955 345.908 c
+</path>
+</group>
+<text transformations="translations" pos="100 588" stroke="kaist-dark-blue" type="label" valign="top">
+CS101</text>
+<path stroke="kaist-dark-blue" pen="fat">
+0 536 m
+736 536 l
+</path>
+</group>
+</symbol>
+<color name="kaist-dark-blue" value="0.065 0.155 0.563"/>
+<color name="dred" value="0.7 0 0"/>
+<layout paper="800 600" origin="32 0" frame="736 528" skip="32" crop="no"/>
+<titlestyle pos="736 554" size="large" color="title"  halign="right" valign="baseline"/>
+</ipestyle>
+<ipestyle name="cs101style">
+<preamble>
+\newcommand{\dred}[1]{\textcolor{dred}{#1}}
+\usepackage{fancyvrb}
+\DefineShortVerb[formatcom=\color{darkred}]{\|}
+\CustomVerbatimEnvironment{V}{Verbatim}{formatcom=\color{black},commandchars=\\\@\$}
+\def\r{$\rightarrow$}
+</preamble>
+</ipestyle>
+<page title="Lots of data" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" matrix="1 0 0 1 0 -75.6385" pin="h" transformations="translations" pos="0 528" stroke="black" type="minipage" width="736" valign="top" size="14">\begin{tabular}{lrrr}
+           Australia &amp;  2 &amp;  1 &amp;  0\\
+             Austria &amp;  4 &amp;  6 &amp;  6\\
+             Belarus &amp;  1 &amp;  1 &amp;  1\\
+              Canada &amp; 14 &amp;  7 &amp;  5\\
+               China &amp;  5 &amp;  2 &amp;  4\\
+             Croatia &amp;  0 &amp;  2 &amp;  1\\
+      Czech Republic &amp;  2 &amp;  0 &amp;  4\\
+             Estonia &amp;  0 &amp;  1 &amp;  0\\
+             Finland &amp;  0 &amp;  1 &amp;  4\\
+              France &amp;  2 &amp;  3 &amp;  6\\
+             Germany &amp; 10 &amp; 13 &amp;  7\\
+       Great Britain &amp;  1 &amp;  0 &amp;  0\\
+               Italy &amp;  1 &amp;  1 &amp;  3\\
+               Japan &amp;  0 &amp;  3 &amp;  2\\
+          Kazakhstan &amp;  0 &amp;  1 &amp;  0\\
+               Korea &amp;  6 &amp;  6 &amp;  2\\
+              Latvia &amp;  0 &amp;  2 &amp;  0\\
+         Netherlands &amp;  4 &amp;  1 &amp;  3\\
+              Norway &amp;  9 &amp;  8 &amp;  6\\
+              Poland &amp;  1 &amp;  3 &amp;  2\\
+  Russian Federation &amp;  3 &amp;  5 &amp;  7\\
+            Slovakia &amp;  1 &amp;  1 &amp;  1\\
+            Slovenia &amp;  0 &amp;  2 &amp;  1\\
+              Sweden &amp;  5 &amp;  2 &amp;  4\\
+         Switzerland &amp;  6 &amp;  0 &amp;  3\\
+       United States &amp;  9 &amp; 15 &amp; 13
+\end{tabular}
+</text>
+<text matrix="1 0 0 1 0 520.423" pin="h" transformations="translations" pos="0 7.44834" stroke="darkblue" type="minipage" width="736" valign="top">Here is a table of olympic medals from the 2010 Vancouver winter games:
+</text>
+<text matrix="1 0 0 1 73.3862 24.4621" transformations="translations" pos="268.793 428.199" stroke="darkblue" type="label" valign="baseline">Source: www.vancouver2010.com</text>
+<text layer="beta" matrix="1 0 0 1 0 -32" transformations="translations" pos="256 416" stroke="darkblue" type="minipage" width="480" valign="top">How can we store this much data in Python?  We would need $4 \times 26$ variables\ldots</text>
+<text layer="gamma" transformations="translations" pos="256 224" stroke="darkblue" type="minipage" width="480" valign="top">The solution is to store all values together in a \dred{list}.</text>
+</page>
+<page title="Lists" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">To create a list, enclose the values in square brackets:
+
+\begin{V}
+countries = [ &quot;Australia&quot;, ... , &quot;United States&quot; ]
+gold = [2, 4, 1, 14, 5, 0, 2, 0, 0, 2, 10, 1, 1, 0, 
+        0, 6, 0, 4, 9, 1, 3, 1, 0, 5, 6, 9]
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 355.594" stroke="darkblue" type="minipage" width="736" valign="top">A list is an object of type |list|.</text>
+<text layer="gamma" matrix="1 0 0 1 0 5.88901" pin="h" transformations="translations" pos="0 298.797" stroke="darkblue" type="minipage" width="736" valign="top">We can access the elements of a list using an integer index.  The first element is at index |0|, the second at index |1|, and so on:
+
+\begin{V}
+&gt;&gt;&gt; countries[0]
+&apos;Australia&apos;
+&gt;&gt;&gt; countries[15]
+&apos;Korea&apos;
+&gt;&gt;&gt; gold[15]
+6
+\end{V}
+</text>
+<text layer="delta" transformations="translations" pos="384 208" stroke="darkblue" type="minipage" width="352" valign="top">Negative indices start at the end of the list:
+
+\begin{V}
+&gt;&gt;&gt; countries[-1]
+&apos;United States&apos;
+&gt;&gt;&gt; countries[-11]
+&apos;Korea&apos;
+\end{V}</text>
+</page>
+<page title="Lists">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">The length of a list is given by |len|:
+
+\begin{V}
+&gt;&gt;&gt; len(countries)
+26
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 392.943" stroke="darkblue" type="minipage" width="736" valign="top">The empty list is written |[]| and has length zero.</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 336.146" stroke="darkblue" type="minipage" width="736" valign="top">Lists can contain a mixture of objects of any type:
+
+\begin{V}
+&gt;&gt;&gt; korea = [ &apos;Korea&apos;, &apos;KR&apos;, 6, 6, 2 ]
+&gt;&gt;&gt; korea[1]
+&apos;KR&apos;
+&gt;&gt;&gt; korea[2]
+6
+\end{V}
+</text>
+<text layer="delta" pin="h" transformations="translations" pos="0 100.664" stroke="darkblue" type="minipage" width="736" valign="top">Or even:
+
+\begin{V}
+&gt;&gt;&gt; korea = [ &quot;Korea&quot;, &apos;KR&apos;, ( 6, 6, 2) ]
+\end{V}
+</text>
+</page>
+<page title="Lists are mutable" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">A list of noble gases:
+
+\begin{V}
+&gt;&gt;&gt; nobles = [ &apos;helium&apos;, &apos;none&apos;, &apos;argon&apos;, &apos;krypton&apos;, 
+               &apos;xenon&apos; ]
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 389.068" stroke="darkblue" type="minipage" width="736" valign="top">Oops.  Correct the typo:
+
+\begin{V}
+&gt;&gt;&gt; nobles[1] = &quot;neon&quot;
+&gt;&gt;&gt; nobles
+[&apos;helium&apos;, &apos;neon&apos;, &apos;argon&apos;, &apos;krypton&apos;, &apos;xenon&apos;]
+\end{V}
+</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 214.335" stroke="darkblue" type="minipage" width="736" valign="top" size="small">Oops oops. I forgot radon!
+
+\begin{V}
+&gt;&gt;&gt; nobles.append(&apos;radon&apos;)
+&gt;&gt;&gt; nobles
+[&apos;helium&apos;, &apos;neon&apos;, &apos;argon&apos;, &apos;krypton&apos;, &apos;xenon&apos;, &apos;radon&apos;]
+\end{V}
+</text>
+</page>
+<page title="Aliasing" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Reminder: An object can have more than one name.  This is called \dred{aliasing}.  We have to be careful when working with mutable objects:
+
+\begin{V}
+&gt;&gt;&gt; list1 = [&quot;A&quot;,&quot;B&quot;,&quot;C&quot;]
+&gt;&gt;&gt; list2 = list1
+&gt;&gt;&gt; len(list1)
+3
+&gt;&gt;&gt; list2.append(&quot;D&quot;)
+&gt;&gt;&gt; len(list1)
+4
+&gt;&gt;&gt; list1[1] = &quot;X&quot;
+&gt;&gt;&gt; list2
+[&apos;A&apos;, &apos;X&apos;, &apos;C&apos;, &apos;D&apos;]
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 -64 3.206" transformations="translations" pos="448 416" stroke="darkblue" type="minipage" width="352" valign="top">\begin{V}
+&gt;&gt;&gt; list1 = [&quot;A&quot;,&quot;B&quot;,&quot;C&quot;]
+&gt;&gt;&gt; list2 = [&quot;A&quot;,&quot;B&quot;,&quot;C&quot;]
+&gt;&gt;&gt; len(list1)
+3
+&gt;&gt;&gt; list2.append(&quot;D&quot;)
+&gt;&gt;&gt; len(list1)
+3
+&gt;&gt;&gt; list1[1] = &quot;X&quot;
+&gt;&gt;&gt; list2
+[&apos;A&apos;, &apos;B&apos;, &apos;C&apos;, &apos;D&apos;]
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 0 6.27451" pin="h" transformations="translations" pos="0 54.3224" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+&gt;&gt;&gt; list1 \dred@is$ list2
+True
+\end{V}
+</text>
+<text matrix="1 0 0 1 0 12.5969" transformations="translations" pos="384 48" stroke="darkblue" type="minipage" width="352" valign="top">\begin{V}
+&gt;&gt;&gt; list1 \dred@is$ list2
+False
+\end{V}
+</text>
+</page>
+<page title="Built-in functions on lists" section="">
+<layer name="alpha"/>
+<view layers="alpha" active="alpha"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">|len| returns length of a list, |sum| the sum of the elements, |max| the largest element, |min| the smallest element:
+
+\begin{V}
+&gt;&gt;&gt; len(gold), sum(gold), max(gold), min(gold)
+(26, 86, 14, 0)
+&gt;&gt;&gt; len(silver), sum(silver), max(silver)
+(26, 87, 15)
+&gt;&gt;&gt; len(bronze), sum(bronze), max(bronze)
+(26, 85, 13)
+\end{V}
+</text>
+</page>
+<page title="Traversing a list" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">A |for| loop looks at every element of a list:
+
+\begin{V}
+for country in countries:
+  print country
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 -0.00000392 299.768" pin="h" transformations="translations" pos="0 100.665" stroke="darkblue" type="minipage" width="736" valign="top">The |range| function returns a list:
+
+\begin{V}
+&gt;&gt;&gt; range(10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+&gt;&gt;&gt; range(10, 15)
+[10, 11, 12, 13, 14]
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 0 16" pin="h" transformations="translations" pos="0 194.553" stroke="darkblue" type="minipage" width="736" valign="top">If we want to modify elements, we need the index:
+
+\begin{V}
+&gt;&gt;&gt; l = range(1, 11)
+&gt;&gt;&gt; for i in \dred@range(len(l))$:
+...   l[i] = l[i] ** 2
+&gt;&gt;&gt; l
+[1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+\end{V}
+</text>
+</page>
+<page title="Traversing several lists" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s print out the total number of medals for each country:
+
+\begin{V}
+for i in range(len(countries)):
+  print countries[i], gold[i]+silver[i]+bronze[i]
+\end{V}</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 386.744" stroke="darkblue" type="minipage" width="736" valign="top">We can create a new list:
+
+\begin{V}
+totals = []
+for i in range(len(countries)):
+  medals = gold[i]+silver[i]+bronze[i]
+  totals.append( (medals, countries[i]) )
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 0 7.95294" pin="h" transformations="translations" pos="0 178.537" stroke="darkblue" type="minipage" width="736" valign="top">The list |totals| is now a list of tuples \dred{(medals, country)}.</text>
+<text matrix="1 0 0 1 0 19.9765" pin="h" transformations="translations" pos="0 118.641" stroke="darkblue" type="minipage" width="736" valign="top" size="small">\verb+[+\texttt{(3, &apos;Australia&apos;), (16, &apos;Austria&apos;), (3, &apos;Belarus&apos;),..., (14, &apos;Korea&apos;), (2, &apos;Latvia&apos;), (8, &apos;Netherlands&apos;), (23, &apos;Norway&apos;), (6, &apos;Poland&apos;), (15, &apos;Russian Federation&apos;), (3, &apos;Slovakia&apos;), (3, &apos;Slovenia&apos;), (11, &apos;Sweden&apos;), (9, &apos;Switzerland&apos;), (37, &apos;United States&apos;)}\verb+]+
+</text>
+</page>
+<page title="Sorting" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We can sort a list using its |sort| method:
+
+\begin{V}
+&gt;&gt;&gt; ta = [ &quot;Minsu&quot;, &quot;Hyunik&quot;, &quot;Hyo-Sil&quot;, 
+...        &quot;Junghwan&quot;, &quot;YeongJae&quot;, &quot;Jinki&quot; ]
+&gt;&gt;&gt; ta.sort()
+&gt;&gt;&gt; ta
+[&apos;Hyo-Sil&apos;, &apos;Hyunik&apos;, &apos;Jinki&apos;, &apos;Junghwan&apos;, 
+&apos;Minsu&apos;, &apos;YeongJae&apos;]
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 0 -49.4118" pin="h" transformations="translations" pos="0 316.274" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s sort the medal totals: |totals.sort()|.</text>
+<text matrix="1 0 0 1 0.784627 107.035" pin="h" transformations="translations" pos="0 118.641" stroke="darkblue" type="minipage" width="736" valign="top" size="small">\verb+[+\texttt{(1, &apos;Estonia&apos;), (1, &apos;Great Britain&apos;), (1, &apos;Kazakhstan&apos;), (2, &apos;Latvia&apos;), (3, &apos;Australia&apos;), (3, &apos;Belarus&apos;), (3, &apos;Croatia&apos;), (3, &apos;Slovakia&apos;), (3, &apos;Slovenia&apos;),... (11, &apos;Sweden&apos;), (14, &apos;Korea&apos;), (15, &apos;Russian Federation&apos;), (16, &apos;Austria&apos;), (23, &apos;Norway&apos;), (26, &apos;Canada&apos;), (30, &apos;Germany&apos;), (37, &apos;United States&apos;)}\verb+]+
+</text>
+</page>
+<page title="Reversing" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta delta" active="delta"/>
+<view layers="alpha beta gamma delta" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We rather want the countries with the largest number of medals at the top:
+
+\begin{V}
+totals.reverse()
+\end{V}
+</text>
+<text matrix="1 0 0 1 0.00032504 281.153" pin="h" transformations="translations" pos="0 118.641" stroke="darkblue" type="minipage" width="736" valign="top" size="small">\verb+[+\texttt{(37, &apos;United States&apos;), (30, &apos;Germany&apos;), (26, &apos;Canada&apos;), (23, &apos;Norway&apos;), (16, &apos;Austria&apos;), (15, &apos;Russian Federation&apos;), (14, &apos;Korea&apos;), (11, &apos;Sweden&apos;), ... (1, &apos;Estonia&apos;)}\verb+]+
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 263.12" stroke="darkblue" type="minipage" width="736" valign="top">Actually we only care about the top-ten:
+
+\begin{V}
+top_ten = totals[\dred@:10$]
+for p in top_ten:
+  medals, country = p
+  print medals, country
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 -384 -112" transformations="translations" pos="384 176" stroke="darkblue" type="minipage" width="352" valign="top">\begin{V}
+for \dred@medals, country$ in top_ten:
+  print medals, country
+\end{V}
+</text>
+<text matrix="1 0 0 1 -36.0784 62.7451" transformations="translations" pos="528 32" stroke="darkred" type="label" valign="baseline">Unpack immediately</text>
+<text layer="delta" transformations="translations" pos="448 176" stroke="darkred" type="label" valign="baseline">Slicing</text>
+<path stroke="darkred" arrow="normal/normal">
+432 176 m
+320 176
+288 192 s
+</path>
+<path layer="gamma" stroke="darkred">
+144 192
+83.2941 196.078
+40.9412 181.176
+8.78431 126.275
+64.4706 109.804
+157.804 136.471
+269.961 116.863
+350.745 130.98
+274.667 192.941 u
+</path>
+<path stroke="darkred" arrow="normal/normal">
+479.373 100.392 m
+393.882 102.745
+324.863 83.1373
+257.412 79.2157
+185.255 90.1961
+168.784 67.451 s
+</path>
+</page>
+<page title="Slicing" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<layer name="delta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<view layers="alpha beta gamma delta" active="delta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Slicing creates a \dred{new list} with elements of the given list:
+
+\begin{V}
+sublist = mylist[i:j]
+\end{V}
+
+Then |sublist| contains elements $i$, $i+1$, \ldots, $j-1$ of |mylist|.</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 386.744" stroke="darkblue" type="minipage" width="736" valign="top">If |i| is omitted, the sublist starts with the first element.
+</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 331.885" stroke="darkblue" type="minipage" width="736" valign="top">If |j| is omitted, then the sublist ends with the last element.</text>
+<text layer="delta" pin="h" transformations="translations" pos="0 274.315" stroke="darkblue" type="minipage" width="736" valign="top">Special case: We can create a copy of a list with 
+
+\begin{V}
+list2 = list1[:]
+\end{V}
+</text>
+</page>
+<page title="Ranking" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s create the top-10 lexicographical ranking:
+
+\begin{V}
+table = []
+for i in range(len(countries)):
+  table.append( (gold[i], silver[i], 
+                 bronze[i], countries[i]) )
+table.sort()
+top_ten = table[-10:]
+top_ten.reverse()
+for g,s,b,country in top_ten:
+  print country, g, s, b
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 152.42" stroke="darkblue" type="minipage" width="736" valign="top" size="12">\begin{V}
+Canada 14 7 5
+Germany 10 13 7
+United States 9 15 13
+Norway 9 8 6
+Korea 6 6 2
+Switzerland 6 0 3
+Sweden 5 2 4
+China 5 2 4
+Austria 4 6 6
+Netherlands 4 1 3
+\end{V}
+</text>
+</page>
+<page title="Selecting elements" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Let&apos;s find all countries that have only one kind of medal:
+
+\begin{V}
+def no_medals(countries, al, bl):
+  result = []
+  for i in range(len(countries)):
+    if al[i] == 0 and bl[i] == 0:
+      result.append(countries[i])
+  return result
+
+only_gold = no_medals(countries, silver, bronze)
+only_silver = no_medals(countries, gold, bronze)
+only_bronze = no_medals(countries, gold, silver)
+
+only_one = only_gold + only_silver + only_bronze
+\end{V}</text>
+<text layer="beta" transformations="translations" pos="285.241 35.8621" stroke="darkred" type="label" valign="baseline">list concatenation</text>
+<path stroke="darkred">
+14.2176 0 0 14.2176 314.897 106.897 e
+</path>
+<path stroke="darkred">
+11.8653 0 0 11.8653 520.414 107.586 e
+</path>
+</page>
+<page title="List methods" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">List objects |L| have the following methods:
+\begin{itemize}
+\item |L.append(v)|  add object |v| at the end
+\item |L.insert(i, v)| insert element at position |i|
+\item |L.pop()|  remove and return last element
+\item |L.pop(i)| remove and return element at position |i|
+\item |L.remove(v)| remove first element equal to |v|
+\item |L.index(v)| return index of first element equal to |v|
+\item |L.count(v)| return number of elements equal to |v|
+\item |L.extend(K)| append all elements of sequence |K| to |L|
+\item |L.reverse()| reverse the list
+\item |L.sort()| sort the list
+\end{itemize}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 139.56" stroke="darkblue" type="minipage" width="736" valign="top">What is the difference?
+
+\begin{V}
+    L.append(13)
+
+    L + [ 13 ]
+\end{V}
+</text>
+</page>
+<page title="Sequences
+" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" matrix="1 0 0 1 0 -0.689655" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Lists are a kind of \dred{sequence}.   We already met other kinds of sequences: strings, and tuples:
+</text>
+<text layer="beta" matrix="1 0 0 1 0 160" transformations="translations" pos="0 288" stroke="darkblue" type="minipage" width="320" valign="top">Strings:
+
+\begin{V}
+&gt;&gt;&gt; a = &quot;CS101&quot;
+&gt;&gt;&gt; a[0]
+&apos;C&apos;
+&gt;&gt;&gt; a[-1]
+&apos;1&apos;
+&gt;&gt;&gt; a[2:]
+&apos;101&apos;
+&gt;&gt;&gt; for i in a:
+...   print i,
+C S 1 0 1
+\end{V}
+</text>
+<text layer="gamma" matrix="1 0 0 1 -32 0" transformations="translations" pos="384 448" stroke="darkblue" type="minipage" width="352" valign="top">Tuples:
+
+\begin{V}
+&gt;&gt;&gt; t = (&quot;CS101&quot;, &quot;A+&quot;, 13)
+&gt;&gt;&gt; t[0]
+&apos;CS101&apos;
+&gt;&gt;&gt; t[-1]
+13
+&gt;&gt;&gt; t[1:]
+(&apos;A+&apos;, 13)
+&gt;&gt;&gt; for i in t:
+...   print i,
+CS101 A+ 13
+\end{V}</text>
+</page>
+<page title="Lists, tuples, strings" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" matrix="1 0 0 1 0 528" pin="h" transformations="translations" pos="0 0" stroke="darkblue" type="minipage" width="736" valign="top">Lists and tuples are very similar, but lists are \dred{mutable}, while tuples (and strings) are \dred{immutable}:
+
+\begin{V}
+&gt;&gt;&gt; t[0] = &quot;CS206&quot;
+TypeError: &apos;tuple&apos; object does not support 
+item assignment
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 319.793" stroke="darkblue" type="minipage" width="736" valign="top">We can convert a sequence into a list or tuple using the |list| and |tuple| functions:
+
+\begin{V}
+&gt;&gt;&gt; list(t)
+[&apos;CS101&apos;, &apos;A+&apos;, 13]
+&gt;&gt;&gt; tuple(gold)
+(2, 4, 1, 14, 5, 0, 2, 0, 0, ..., 0, 5, 6, 9)
+&gt;&gt;&gt; list(&quot;CS101&quot;)
+[&apos;C&apos;, &apos;S&apos;, &apos;1&apos;, &apos;0&apos;, &apos;1&apos;]
+\end{V}</text>
+</page>
+<page title="Back to medals" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<layer name="gamma"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<view layers="alpha beta gamma" active="gamma"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Using four lists to store the medal information is not typical for Python.  We would normally make a single list of tuples: 
+
+\begin{V}
+medals = [ ( &apos;Australia&apos;, 2, 1, 0 ),
+           ( &apos;Austria&apos;, 4, 6, 6 ),
+           ...
+           ( &apos;United States&apos;, 9, 15, 13 ) ]
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 288.643" stroke="darkblue" type="minipage" width="736" valign="top">Print total number of medals for each country:
+
+\begin{V}
+def print_totals1():
+  for country, g, s, b in medals:
+    print country + &quot;:&quot;, g + s + b
+\end{V}</text>
+<text layer="gamma" pin="h" transformations="translations" pos="0 113.91" stroke="darkblue" type="minipage" width="736" valign="top">\begin{V}
+def print_totals2():
+  for item in medals:
+    print item[0] + &quot;:&quot;, sum(item[1:])
+\end{V}
+</text>
+</page>
+<page title="Top ten again" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Instead of creating a new list, let&apos;s sort the original list by total number of medals:
+
+\begin{V}
+def \dred@compare$(item1, item2):
+  medals1 = sum(item1[1:])
+  medals2 = sum(item2[1:])
+  return \dred@cmp$(medals2, medals1)
+
+def top_ten():
+  medals.sort(\dred@compare$)
+  top_ten = medals[:10]
+  for item in top_ten:
+    print item[0] + &quot;:&quot;, sum(item[1:])
+\end{V}
+</text>
+<text matrix="1 0 0 1 0 160" transformations="translations" pos="480 272" stroke="darkblue" type="minipage" width="256" valign="top" size="20">\begin{V}
+United States: 37
+Germany: 30
+Canada: 26
+Norway: 23
+Austria: 16
+Russian Federation: 15
+Korea: 14
+China: 11
+France: 11
+Sweden: 11
+\end{V}
+</text>
+<text layer="beta" pin="h" transformations="translations" pos="0 85.4724" stroke="darkblue" type="minipage" width="736" valign="top">|cmp(a,b)| returns |-1| if $a &lt; b$, |0| if $a = b$, and |+1| if $a &gt; b$.</text>
+</page>
+<page title="Histogram" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">We want to create a histogram of medals:
+
+</text>
+<text pin="h" transformations="translations" pos="0 471.203" stroke="darkblue" type="minipage" width="192" valign="top" size="20">\begin{V}
+0~2:   ****
+3~5:   ********
+6~8:   ***
+9~11:  ****
+12~14: *
+15~17: **
+18~20:
+21~23: *
+24~26: *
+27~29:
+30~32: *
+33~35:
+36~38: *
+\end{V}</text>
+<text layer="beta" transformations="translations" pos="192 464" stroke="darkblue" type="minipage" width="544" valign="top">\begin{V}
+def histogram():
+  t = [0] \dred@*$ 13
+  for item in medals:
+    total = sum(item[1:])
+    t[total / 3] += 1
+  for i in range(13):
+    print str(3*i) + &quot;~&quot; + str(3*i+2) 
+          + &quot;:\char92t&quot; + (&quot;*&quot; * t[i])
+\end{V}
+</text>
+</page>
+<page title="Computing prime numbers" section="">
+<layer name="alpha"/>
+<layer name="beta"/>
+<view layers="alpha" active="alpha"/>
+<view layers="alpha beta" active="beta"/>
+<text layer="alpha" pin="h" transformations="translations" pos="0 528" stroke="darkblue" type="minipage" width="736" valign="top">Sieve of Eratosthenes
+
+\begin{V}
+def sieve(n):
+  t = range(3, n, 2)
+  sqrtn = int(math.sqrt(n))
+  i = 0
+  while t[i] &lt;= sqrtn:
+    # remove all multiples of t[i]
+    p = t[i]
+    for j in range(len(t)-1, i, -1):
+      if t[j] % p == 0:
+        t.pop(j)
+    i += 1
+  return t
+\end{V}
+</text>
+<text layer="beta" matrix="1 0 0 1 -3.44828 6.34483" transformations="translations" pos="320 176" stroke="darkblue" type="minipage" width="416" valign="top" size="12">\texttt{3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541, 547, 557, 563, 569, 571, 577, 587, 593, 599, 601, 607, 613, 617, 619, 631, 641, 643, 647, 653, 659, 661, 673, 677, 683, 691, 701, 709, 719, 727, 733, 739, 743, 751, 757, 761, 769, 773, 787, 797, 809, 811, 821, 823, 827, 829, 839, 853, 857, 859, 863, 877, 881, 883, 887, 907, 911, 919, 929, 937, 941, 947, 953, 967, 971, 977, 983, 991, 997}
+</text>
+</page>
+</ipe>
